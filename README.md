@@ -35,8 +35,10 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `$tw` - `$togglewestern`, personal toggle (assumed always used thus series from `Western` disabled)
 * `$ti` - `$toggleirl`, personal toggle (assumed always used thus series from `Real Life People` disabled)
 * `$th` - `$togglehentai`, server toggle (can do `$settings` to check if used)
+* `$td` - `$togglehorror`, server toggle (can do `$settings` to check if used)
 * `T:wi` - `$tw`+`$ti`
 * `T:wih` - `$tw`+`$ti`+`$th`
+* `T:wihd` - `$tw`+`$ti`+`$th`+`$td` 
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
 
