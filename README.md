@@ -63,7 +63,7 @@ $d Kadokawa Future Publishing $ Kodansha $ Virtual YouTubers $ Shogakukan $ Houb
 
 ```
 
-## Type `$wa`,`27.5k/51`, `$tw`
+## Type `$wa`,`27.5k/51`, `$ti`
 For Western but no IRL (close to 17.3k damage)
 
 ### Command
