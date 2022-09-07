@@ -43,14 +43,6 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
 
-# Overview
-
-## Disable counts
-
-
-## Pool size
-
-
 # Lists
 
 ## Type `$wa`,`27.5k/51`, `$tw+$ti`
