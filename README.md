@@ -137,7 +137,53 @@ $d Western $ Kadokawa Future Publishing $ Houbunsha $ Akita Shoten $ T-Rex $ Dig
 
 ### Result
 ```
+28000 disabled (14901 $wa, 12642 $ha, 2748 $wg, 1439 $hg)
+Pool limits: 25659 $wa, 25521 $ha, 17480 $wg, 14662 $hg
 
+Overlap limit: 27488 / 27500 characters
+(14716 $wa, 12304 $ha, 2758 $wg, 1437 $hg)
+
+IRL series are completely disabled ($toggleirl)
+
+Western (12582 ~ 4885 $wa, 8007 $ha, 120 $wg, 209 $hg)
+Kadokawa Future Publishing (10231 ~ 6205 $wa, 3071 $ha, 1779 $wg, 800 $hg)
+Houbunsha (616 ~ 451 $wa, 57 $ha, 127 $wg, 2 $hg)
+Akita Shoten (749 ~ 418 $wa, 334 $ha, 16 $wg, 6 $hg)
+T-Rex (251 ~ 226 $wa, 3 $ha, 21 $wg, 1 $hg)
+Dig Delight Direct Drive DJ (30 ~ 26 $wa, 1 $ha, 29 $wg, 1 $hg)
+Artwork (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
+Comic Meteor (96 ~ 78 $wa, 19 $ha, 0 $wg, 0 $hg)
+Comic Valkyrie (70 ~ 66 $wa, 4 $ha, 0 $wg, 0 $hg)
+Comic Ryu (83 ~ 75 $wa, 8 $ha, 0 $wg, 0 $hg)
+The Evillious Chronicles (66 ~ 41 $wa, 25 $ha, 0 $wg, 0 $hg)
+AlphaPolis (56 ~ 40 $wa, 16 $ha, 0 $wg, 0 $hg)
+Queen Bee (44 ~ 44 $wa, 0 $ha, 0 $wg, 0 $hg)
+PoRO (41 ~ 34 $wa, 0 $ha, 6 $wg, 1 $hg)
+To Books (58 ~ 33 $wa, 25 $ha, 0 $wg, 0 $hg)
+Voice Synthesizers (181 ~ 124 $wa, 63 $ha, 18 $wg, 2 $hg)
+Super Crown (18 ~ 18 $wa, 0 $ha, 0 $wg, 0 $hg)
+Chuunibyou demo Koi ga Shitai! (22 ~ 18 $wa, 4 $ha, 0 $wg, 0 $hg)
+Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
+Monster Girl Encyclopedia Series (26 ~ 24 $wa, 0 $ha, 2 $wg, 0 $hg)
+WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
+Pink Pineapple (213 ~ 188 $wa, 6 $ha, 31 $wg, 2 $hg)
+Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
+Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
+Korotsuke's Works (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
+Medaka Box (89 ~ 57 $wa, 33 $ha, 0 $wg, 0 $hg)
+MS Pictures (143 ~ 111 $wa, 2 $ha, 22 $wg, 11 $hg)
+Overlap (183 ~ 146 $wa, 39 $ha, 0 $wg, 0 $hg)
+Cycomics (46 ~ 32 $wa, 14 $ha, 0 $wg, 0 $hg)
+Synapse Series (32 ~ 31 $wa, 1 $ha, 0 $wg, 0 $hg)
+Mary Jane (69 ~ 57 $wa, 0 $ha, 16 $wg, 0 $hg)
+To LOVE-Ru (28 ~ 22 $wa, 6 $ha, 0 $wg, 0 $hg)
+Windows 1st Generation (37 ~ 26 $wa, 0 $ha, 37 $wg, 1 $hg)
+Grand Jump (45 ~ 33 $wa, 12 $ha, 0 $wg, 0 $hg)
+Kawamoto Homura's Works (39 ~ 34 $wa, 5 $ha, 0 $wg, 0 $hg)
+Collaboration Works (30 ~ 27 $wa, 2 $ha, 0 $wg, 1 $hg)
+Suzuki Mirano (31 ~ 26 $wa, 2 $ha, 3 $wg, 0 $hg)
+Majin (52 ~ 47 $wa, 3 $ha, 19 $wg, 2 $hg)
+Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
 ```
 
 ## Type `$ha`,`27.5k/51`, `$tw+$ti`
