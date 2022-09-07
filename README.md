@@ -39,6 +39,7 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `T:wi` - `$tw`+`$ti`
 * `T:wih` - `$tw`+`$ti`+`$th`
 * `T:wihd` - `$tw`+`$ti`+`$th`+`$td` 
+* `damage` - Number of characters disabled for the target roulette on the disablelist
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
 
@@ -96,7 +97,6 @@ $d Shueisha $ Kodansha $ Pokémon Anime $ Shogakukan $ Boys' Love $ KakaoPage $ 
 ## Type `$ha`,`27.5k/51`, `$tw`
 For Westerns but no IRL (17.3k damage)
 
-Broke the 22.5k damage barrier. That was… not too hard.
 ### Command
 ```
 $d Western $ Boys' Love $ KakaoPage $ Comic ZERO-SUM $ Morning $ Beyblade Series $ Tsukino Talent Production $ Black Butler $ Soul Eater Series $ Neon Genesis Evangelion $ Tensei shitara Slime Datta Ken Series $ Sword Art Online $ Re:Zero kara Hajimeru Isekai Seikatsu $ Digimon $ Uta no☆Prince-sama♪ $ Fullmetal Alchemist $ Saint Seiya: The Lost Canvas $ Free! $ Mairimashita! Iruma-kun $ Ensemble Stars! $ The iDOLM@STER SideM $ Tower of God $ Hardcore Leveling Warrior $ Futabasha $ Tae Jun Park's Works $ Chinese Animation $ Shounen Gahousha $ Kazuki Yone's Art $ Senyuu. $ ELECEED $ Noblesse $ The God of High School $ Kamen Rider Series $ GFantasy $ Mag Garden $ Tokuma Shoten $ Pokédex $ Yu-Gi-Oh! $ A3! $ Jump Magazines $ 3-gatsu no Lion $ Akatsuki no Yona $ Berserk $ IDOLiSH7 $ InuYasha $ Mob Psycho 100 $ Shingeki no Kyojin $ Magi $ Nanatsu no Taizai $ Dinosaur King $ Inazuma Eleven
@@ -108,7 +108,7 @@ $d Western $ Boys' Love $ KakaoPage $ Comic ZERO-SUM $ Morning $ Beyblade Series
 ```
 
 ## Type `$wg`,`27.5k/51`,` $tw+$ti`
-Gonna try to hit 15.3k.
+15,307 damage
 
 Original build credit to an anonymous user.
 ### Command
@@ -155,7 +155,7 @@ $disable Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Houbunsha $Aki
 
 ```
 
-## Type `$wa`,`22.5K/11`,` $tw+$ti`
+## Type `$wa`,`22.5K/11`,` $tw+$ti+$th+$td`
 With 2x $toggles, 19,650 disabled. 22,493/22,500 and 11/11 slots. 
 
 ### Command
