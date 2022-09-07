@@ -128,7 +128,7 @@ Majin (52 ~ 47 $wa, 3 $ha, 19 $wg, 2 $hg)
 ```
 
 ## Type `$wa`,`27.5k/51`, `$ti`
-For Western but no IRL (close to 17.3k damage)
+For Western but no IRL (14.9k damage)
 
 ### Command
 ```
