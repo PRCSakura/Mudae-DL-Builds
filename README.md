@@ -39,7 +39,7 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `damage` - Number of characters disabled for the target roulette on the disablelist
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
----
+
 
 ## Disable counts
 
@@ -52,6 +52,7 @@ https://mudae-tools.gustavbylund.se/split-list/
 | $hg       |          |              |               |                 |              |              |               |
 
 ---
+
 ## Type `$wa`,`27.5k/51`, `$tw+$ti`
 Original build credit to Dee Pink for helping me out.
 Broke the 21k damage barrier. But… disabling duplicate characters doesn’t eat up the overlap limit when?
@@ -280,7 +281,7 @@ Original build credit to unknown user.
 
 ### Command
 ```
-$disable Shueisha $Kodansha $Tokusatsu $KakaoPage $Boys' Love $Pokédex $Shogakukan $Akita Shoten $Shounen Ace $Isekai Quartet $GFantasy
+$d Shueisha $Kodansha $Tokusatsu $KakaoPage $Boys' Love $Pokédex $Shogakukan $Akita Shoten $Shounen Ace $Isekai Quartet $GFantasy
 ```
 
 ### Result
@@ -308,7 +309,7 @@ Westerns but no IRL
 
 ### Command
 ```
-$d Western$Pokédex$Boys' Love $KakaoPage $Jump Magazines $Saint Seiya: The Lost Canvas $Ensemble Stars! $The iDOLM@STER SideM $IDOLiSH7 $A3! $Ahiru no Sora
+$d Western $Pokédex $Boys' Love $KakaoPage $Jump Magazines $Saint Seiya: The Lost Canvas $Ensemble Stars! $The iDOLM@STER SideM $IDOLiSH7 $A3! $Ahiru no Sora
 ```
 
 ### Result
