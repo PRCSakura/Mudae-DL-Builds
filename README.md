@@ -26,10 +26,7 @@ https://mudae-tools.gustavbylund.se/split-list/
 
 **[Mudae's all bundle (Updated within the last 2 weeks)](https://docs.google.com/spreadsheets/d/1uSn_E6bdzkQzB-tmDii1Es21tz9hvbvEckc6pGOno40/edit#gid=1694910888)**
 
-
-
-
-
+---
 # Terminology
 
 * `$tw` - `$togglewestern`, personal toggle (assumed always used thus series from `Western` disabled)
@@ -42,16 +39,26 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `damage` - Number of characters disabled for the target roulette on the disablelist
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
+---
 
-# Lists
+## Disable counts
 
+
+| Roll type | 22.5K/11 | T:i 22.5K/11 | T:wi 22.5K/11 | T:wihd 22.5K/11 | T:i 27.5k/51 | T:w 27.5k/51 | T:wi 27.5k/51 |
+|-----------|----------|--------------|---------------|-----------------|--------------|--------------|---------------|
+| $wa       |          |              |               |                 |    14901     |              |    21030      |
+| $ha       |          |              |               |                 |              |              |               |
+| $wg       |          |              |               |                 |              |              |               |
+| $hg       |          |              |               |                 |              |              |               |
+
+---
 ## Type `$wa`,`27.5k/51`, `$tw+$ti`
 Original build credit to Dee Pink for helping me out.
 Broke the 21k damage barrier. But… disabling duplicate characters doesn’t eat up the overlap limit when?
 
 ### Command
 ```
-$d Kadokawa Future Publishing $ Kodansha $ Virtual YouTubers $ Shogakukan $ Houbunsha $ Akita Shoten $ T-Rex $ Dig Delight Direct Drive DJ $ Artwork $ Comic Meteor $ Comic Valkyrie $ Comic Ryu $ The Evillious Chronicles $ AlphaPolis $ Queen Bee $ PoRO $ To Books $ Voice Synthesizers $ Super Crown $ Chuunibyou demo Koi ga Shitai! $ Wonder Egg Priority $ Monster Girl Encyclopedia Series $ WIXOSS $ Pink Pineapple $ Eromanhwa $ Pokédex $Princess Connect! Re:Dive $ Korotsuke's Works $ Young Gangan $ Takeshobo $ Tencent Manhua $ Futabasha $ Hakusensha $Medaka Box $ MS Pictures $ Mag Garden $The iDOLM@STER Cinderella Girls $ Weekly Young Jump $ Overlap $ Cycomics $ Hobby Japan $ Synapse Series $ Gangan Online $ Mary Jane $TLR $ Windows 1st Generation $ Grand Jump $ Kawamoto Homura's Works $ Collaboration Works $ Suzuki Mirano $ Majin
+$d Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Shogakukan $Houbunsha $Akita Shoten $T-Rex $Dig Delight Direct Drive DJ $Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $Queen Bee $PoRO $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $Monster Girl Encyclopedia Series $WIXOSS $Pink Pineapple $Eromanhwa $Pokédex $Princess Connect! Re:Dive $Korotsuke's Works $Young Gangan $Takeshobo $Tencent Manhua $Futabasha $Hakusensha $Medaka Box $MS Pictures $Mag Garden $The iDOLM@STER Cinderella Girls $Weekly Young Jump $Overlap $Cycomics $Hobby Japan $Synapse Series $Gangan Online $Mary Jane $TLR $Windows 1st Generation $Grand Jump $Kawamoto Homura's Works $Collaboration Works $Suzuki Mirano $Majin
 ```
 
 ### Result
@@ -89,7 +96,6 @@ Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
 Monster Girl Encyclopedia Series (26 ~ 24 $wa, 0 $ha, 2 $wg, 0 $hg)
 WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
 Pink Pineapple (213 ~ 188 $wa, 6 $ha, 31 $wg, 2 $hg)
-[17:45]
 Eromanhwa (488 ~ 248 $wa, 241 $ha, 0 $wg, 0 $hg)
 Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
 Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
@@ -124,7 +130,7 @@ For Western but no IRL (14.9k damage)
 
 ### Command
 ```
-$d Western $ Kadokawa Future Publishing $ Houbunsha $ Akita Shoten $ T-Rex $ Dig Delight Direct Drive DJ $ Artwork $ Comic Meteor $ Comic Valkyrie $ Comic Ryu $ The Evillious Chronicles $ AlphaPolis $ Queen Bee $ PoRO $ To Books $ Voice Synthesizers $ Super Crown $ Chuunibyou demo Koi ga Shitai! $ Wonder Egg Priority $ Monster Girl Encyclopedia Series $ WIXOSS $ Pink Pineapple $ Pokédex $ Princess Connect! Re:Dive $ Korotsuke's Works $ Medaka Box $ MS Pictures $ Overlap $ Cycomics $ Synapse Series $ Mary Jane $ To LOVE-Ru $ Windows 1st Generation $ Grand Jump $ Kawamoto Homura's Works $ Collaboration Works $ Suzuki Mirano $ Majin $ Virtual YouTubers
+$d Western $Kadokawa Future Publishing $Houbunsha $Akita Shoten $T-Rex $Dig Delight Direct Drive DJ $Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $Queen Bee $PoRO $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $Monster Girl Encyclopedia Series $WIXOSS $Pink Pineapple $Pokédex $Princess Connect! Re:Dive $Korotsuke's Works $Medaka Box $MS Pictures $Overlap $Cycomics $Synapse Series $Mary Jane $To LOVE-Ru $Windows 1st Generation $Grand Jump $Kawamoto Homura's Works $Collaboration Works $Suzuki Mirano $Majin Virtual YouTubers
 ```
 
 ### Result
@@ -184,7 +190,7 @@ Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
 Broke the 22.5k damage barrier. That was… not too hard.
 ### Command
 ```
-$d Shueisha $ Kodansha $ Pokémon Anime $ Shogakukan $ Boys' Love $ KakaoPage $ Tokusatsu $ Mascots $ Young Ace $ GFantasy $ Mag Garden $ Tokuma Shoten $ Pokédex $ Yu-Gi-Oh! $ Cuphead $ Black Butler $ Soul Eater Series $ Neon Genesis Evangelion $ Tensei shitara Slime Datta Ken Series $ Sword Art Online $ Re:Zero kara Hajimeru Isekai Seikatsu $ Mushoku Tensei $ Kumo Desu ga, Nani ka? $ Baki $ Digimon $ Baccano! $ Uta no☆Prince-sama♪ $ Fullmetal Alchemist $ Pokémon Core Games $ Saint Seiya: The Lost Canvas $ Free! $ Mairimashita! Iruma-kun $ Ensemble Stars! $ The iDOLM@STER SideM $ Holostars $ Shounen Ace $ Akita Shoten $ Tower of God $ Hardcore Leveling Warrior $ The Evillious Chronicles $ Futabasha $ Cardfight!! Vanguard Series $ Tae Jun Park's Works $ Chinese Animation $ Gangan Joker $ Shounen Gahousha $ Kazuki Yone's Art $ Senyuu. $ ELECEED $ Noblesse $ The God of High School
+$d Shueisha $Kodansha $Pokémon Anime $Shogakukan $Boys' Love $KakaoPage $Tokusatsu $Mascots $Young Ace $GFantasy $Mag Garden $Tokuma Shoten $Pokédex $Yu-Gi-Oh! $Cuphead $Black Butler $Soul Eater Series $Neon Genesis Evangelion $Tensei shitara Slime Datta Ken Series $Sword Art Online $Re:Zero kara Hajimeru Isekai Seikatsu $Mushoku Tensei $Kumo Desu ga, Nani ka? $Baki $Digimon $Baccano! $Uta no☆Prince-sama♪ $Fullmetal Alchemist $Pokémon Core Games $Saint Seiya: The Lost Canvas $Free! $Mairimashita! Iruma-kun $Ensemble Stars! $The iDOLM@STER SideM $Holostars $Shounen Ace $Akita Shoten $Tower of God $Hardcore Leveling Warrior $The Evillious Chronicles $Futabasha $Cardfight!! Vanguard Series $Tae Jun Park's Works $Chinese Animation $Gangan Joker $Shounen Gahousha $Kazuki Yone's Art $Senyuu. $ELECEED $Noblesse $The God of High School
 ```
 
 ### Result
@@ -197,7 +203,7 @@ For Westerns but no IRL (17.3k damage)
 
 ### Command
 ```
-$d Western $ Boys' Love $ KakaoPage $ Comic ZERO-SUM $ Morning $ Beyblade Series $ Tsukino Talent Production $ Black Butler $ Soul Eater Series $ Neon Genesis Evangelion $ Tensei shitara Slime Datta Ken Series $ Sword Art Online $ Re:Zero kara Hajimeru Isekai Seikatsu $ Digimon $ Uta no☆Prince-sama♪ $ Fullmetal Alchemist $ Saint Seiya: The Lost Canvas $ Free! $ Mairimashita! Iruma-kun $ Ensemble Stars! $ The iDOLM@STER SideM $ Tower of God $ Hardcore Leveling Warrior $ Futabasha $ Tae Jun Park's Works $ Chinese Animation $ Shounen Gahousha $ Kazuki Yone's Art $ Senyuu. $ ELECEED $ Noblesse $ The God of High School $ Kamen Rider Series $ GFantasy $ Mag Garden $ Tokuma Shoten $ Pokédex $ Yu-Gi-Oh! $ A3! $ Jump Magazines $ 3-gatsu no Lion $ Akatsuki no Yona $ Berserk $ IDOLiSH7 $ InuYasha $ Mob Psycho 100 $ Shingeki no Kyojin $ Magi $ Nanatsu no Taizai $ Dinosaur King $ Inazuma Eleven
+$d Western $Boys' Love $KakaoPage $Comic ZERO-SUM $Morning $Beyblade Series $Tsukino Talent Production $Black Butler $Soul Eater Series $Neon Genesis Evangelion $Tensei shitara Slime Datta Ken Series $Sword Art Online $Re:Zero kara Hajimeru Isekai Seikatsu $Digimon $Uta no☆Prince-sama♪ $Fullmetal Alchemist $Saint Seiya: The Lost Canvas $Free! $Mairimashita! Iruma-kun $Ensemble Stars! $The iDOLM@STER SideM $Tower of God $Hardcore Leveling Warrior $Futabasha $Tae Jun Park's Works $Chinese Animation $Shounen Gahousha $Kazuki Yone's Art $Senyuu. $ELECEED $Noblesse $The God of High School $Kamen Rider Series $GFantasy $Mag Garden $Tokuma Shoten $Pokédex $Yu-Gi-Oh! $A3! $Jump Magazines $3-gatsu no Lion $Akatsuki no Yona $Berserk $IDOLiSH7 $InuYasha $Mob Psycho 100 $Shingeki no Kyojin $Magi $Nanatsu no Taizai $Dinosaur King $Inazuma Eleven
 ```
 
 ### Result
@@ -211,7 +217,7 @@ $d Western $ Boys' Love $ KakaoPage $ Comic ZERO-SUM $ Morning $ Beyblade Series
 Original build credit to an anonymous user.
 ### Command
 ```
-$disable Visual Novels $ Indie Games $ Pokémon Games $ Gacha Games $ Compile Heart $ Pokédex $ Gust Co. Ltd. $ Animal Crossing $ The iDOLM@STER $ Identity V $ Trading Card Games $ MMORPG $ Shooter Games $ Megami Tensei $ MOBA Games $ Marvelous $ Digimon Story Cyber Sleuth $ Girl Friend BETA $ Kemono Friends $ Show By Rock!! $ Fire Emblem Awakening $ Fire Emblem Fates $ Fire Emblem: Genealogy of the Holy War $ Paper Mario: The Thousand-Year Door $ The Caligula Effect $ Trails of Cold Steel $ God Eater $ Xenoblade Chronicles 2 $ PriPara $ SOUND VOLTEX $ Kiratto Pri☆Chan $ Love Live! Superstar!! $ Love Live! Sunshine!! $ Love Live! School idol project $ Puyo Puyo $ Corpse Party Series $ Love Live! Nijigasaki High School Idol Club $ Toji no Miko $ Kantai Collection $ The Legend of Zelda: Breath of the Wild $ Monster Musume no Iru Nichijou Online $ Shadow of the Colossus $ Azure Striker Gunvolt $ Dead by Daylight $ Arcana Heart $ Fire Emblem: The Binding Blade $ Kingdom Hearts $ BEMANI $ The Elder Scrolls $ Kirby $ Paper Games
+$disable Visual Novels $Indie Games $Pokémon Games $Gacha Games $Compile Heart $Pokédex $Gust Co. Ltd. $Animal Crossing $The iDOLM@STER $Identity V $Trading Card Games $MMORPG $Shooter Games $Megami Tensei $MOBA Games $Marvelous $Digimon Story Cyber Sleuth $Girl Friend BETA $Kemono Friends $Show By Rock!! $Fire Emblem Awakening $Fire Emblem Fates $Fire Emblem: Genealogy of the Holy War $Paper Mario: The Thousand-Year Door $The Caligula Effect $Trails of Cold Steel $God Eater $Xenoblade Chronicles 2 $PriPara $SOUND VOLTEX $Kiratto Pri☆Chan $Love Live! Superstar!! $Love Live! Sunshine!! $Love Live! School idol project $Puyo Puyo $Corpse Party Series $Love Live! Nijigasaki High School Idol Club $Toji no Miko $Kantai Collection $The Legend of Zelda: Breath of the Wild $Monster Musume no Iru Nichijou Online $Shadow of the Colossus $Azure Striker Gunvolt $Dead by Daylight $Arcana Heart $Fire Emblem: The Binding Blade $Kingdom Hearts $BEMANI $The Elder Scrolls $Kirby $Paper Games
 ```
 
 ### Result
@@ -226,7 +232,7 @@ Finally I improved this build, but…. GIVE ME MORE SLOTS!!!!
 
 ### Command
 ```
-$disable Turn-Based RPGs $ Platformer Games $ Otome Games $ Action Roleplaying Games $ Shooter Games $ MMORPG $ Fighting Games $ MOBA Games $ Pokédex $ Indie Games $ Level-5 $ A3! $ Ensemble Stars! $ Food Fantasy $ Warhammer $ Dragalia Lost $ Touken Ranbu $ Time Princess $ Tabletop Games $ Cardfight!! Vanguard TCG $ The iDOLM@STER SideM $ ARGONAVIS from BanG Dream! $ Choices: Stories You Play $ Hypnosis Mic $ I-Chu $ IDOLiSH7 $ King's Raid $ Mahoutsukai no Yakusoku $ Merc Storia $ TSUKIPRO $ Tsukiuta. $ Twisted Wonderland $ Animal Crossing $ Rhythm Heaven $ The Legend of Zelda: Breath of the Wild $ Ace Attorney $ Dream Festival! $ Helios Rising Heroes $ Shadow of the Colossus $ Puyo Puyo $ Baten Kaitos: Eternal Wings and the Lost Ocean $ Dead by Daylight $ Monster Retsuden Oreca Battle $ Yu-Gi-Oh! Duel Monsters $ Show By Rock!! $ Skylanders $ Yu-Gi-Oh! GX $ Dynasty Warriors $ Yakuza Series $ Racing Games $ NetEase Games
+$disable Turn-Based RPGs $Platformer Games $Otome Games $Action Roleplaying Games $Shooter Games $MMORPG $Fighting Games $MOBA Games $Pokédex $Indie Games $Level-5 $A3! $Ensemble Stars! $Food Fantasy $Warhammer $Dragalia Lost $Touken Ranbu $Time Princess $Tabletop Games $Cardfight!! Vanguard TCG $The iDOLM@STER SideM $ARGONAVIS from BanG Dream! $Choices: Stories You Play $Hypnosis Mic $I-Chu $IDOLiSH7 $King's Raid $Mahoutsukai no Yakusoku $Merc Storia $TSUKIPRO $Tsukiuta. $Twisted Wonderland $Animal Crossing $Rhythm Heaven $The Legend of Zelda: Breath of the Wild $Ace Attorney $Dream Festival! $Helios Rising Heroes $Shadow of the Colossus $Puyo Puyo $Baten Kaitos: Eternal Wings and the Lost Ocean $Dead by Daylight $Monster Retsuden Oreca Battle $Yu-Gi-Oh! Duel Monsters $Show By Rock!! $Skylanders $Yu-Gi-Oh! GX $Dynasty Warriors $Yakuza Series $Racing Games $NetEase Games
 ```
 
 ### Result
@@ -234,18 +240,20 @@ $disable Turn-Based RPGs $ Platformer Games $ Otome Games $ Action Roleplaying G
 
 ```
 
+---
+
 # F2P:
 
 Disable List Build (mainly for F2P’s)
 P.S.: F2P DL builds are possible but they do not hit too hard. Majorities of requests I have received were from Mudaeists who have little resources (and it will be useful for me in case my Premium expires). Until Saya buffs GM1 correctly, **build Tower 1’s F3 ASAP.**
 
-## Type `$wa`,`22.5K/11`,`
+## Type `$wa`,`22.5K/11`
 $wa (18,020 disabled).
 Takes 11/11 slots and 22,489/22,500 overlap limit.
 
 ### Command
 ```
-$disable Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Houbunsha $Akita Shoten $Shogakukan $Pokédex $T-Rex $Mag Garden $Young Gangan $Pink Pineapple
+$d Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Houbunsha $Akita Shoten $Shogakukan $Pokédex $T-Rex $Mag Garden $Young Gangan $Pink Pineapple
 ```
 
 ### Result
@@ -258,7 +266,7 @@ With 2x $toggles, 19,650 disabled. 22,493/22,500 and 11/11 slots.
 
 ### Command
 ```
-$d Kadokawa Future Publishing $ Kodansha $ Virtual YouTubers $ Houbunsha $ Akita Shoten $ Shogakukan $ Pokédex $ Young Gangan $Overlap $Voice Synthesizers $ Gangan Online
+$d Kadokawa Future Publishing $Kodansha $VirtualYouTubers $Houbunsha $Akita Shoten $Shogakukan $Pokédex $Young Gangan $Overlap $Voice Synthesizers $Gangan Online
 ```
 
 ### Result
@@ -272,7 +280,7 @@ Original build credit to unknown user.
 
 ### Command
 ```
-$disable Shueisha $ Kodansha $ Tokusatsu $ KakaoPage $ Boys' Love $ Pokédex $ Shogakukan $ Akita Shoten $ Shounen Ace $ Isekai Quartet $ GFantasy
+$disable Shueisha $Kodansha $Tokusatsu $KakaoPage $Boys' Love $Pokédex $Shogakukan $Akita Shoten $Shounen Ace $Isekai Quartet $GFantasy
 ```
 
 ### Result
@@ -280,13 +288,13 @@ $disable Shueisha $ Kodansha $ Tokusatsu $ KakaoPage $ Boys' Love $ Pokédex $ S
 
 ```
 
-## Type `$ha`,`22.5K/11`,
+## Type `$ha`,`22.5K/11`
 **About 50% $ha disabled (WTF is this small damage)**
 For Western + IRL
 
 ### Command
 ```
-$d Western $ Real Life People $ Pokédex $ Boys' Love $ KakaoPage $ Weekly Shounen Jump $ Kamen Rider Series $ Comic ZERO-SUM $ Morning $ Beyblade Series $ Tsukino Talent Production
+$d Western $Real Life People $Pokédex $Boys' Love $KakaoPage $Weekly Shounen Jump $Kamen Rider Series $Comic ZERO-SUM $Morning $Beyblade Series $Tsukino Talent Production
 ```
 
 ### Result
@@ -300,7 +308,7 @@ Westerns but no IRL
 
 ### Command
 ```
-$d Western $ Pokédex $ Boys' Love $ KakaoPage $ Jump Magazines $ Saint Seiya: The Lost Canvas $ Ensemble Stars! $ The iDOLM@STER SideM $ IDOLiSH7 $ A3! $ Ahiru no Sora
+$d Western$Pokédex$Boys' Love $KakaoPage $Jump Magazines $Saint Seiya: The Lost Canvas $Ensemble Stars! $The iDOLM@STER SideM $IDOLiSH7 $A3! $Ahiru no Sora
 ```
 
 ### Result
@@ -314,7 +322,7 @@ Original build credit to unknown.
 
 ### Command
 ```
-$disable Visual Novels $ Indie Games $ MMORPG $ Trading Card Games $ Gacha Games $ Compile Heart $ Pokédex $ Kantai Collection $ Pokémon Core Games $ Gust Co. Ltd. $ Corpse Party Series
+$disable Visual Novels $Indie Games $MMORPG $Trading Card Games $Gacha Games $Compile Heart $Pokédex $Kantai Collection $Pokémon Core Games $Gust Co. Ltd. $Corpse Party Series
 ```
 
 ### Result
@@ -327,7 +335,7 @@ $hg (11,116 yeeted) 11/11 slots and 22,478/22,500 limit. Western + IRL unrollabl
 
 ### Command
 ```
-$disable Turn-Based RPGs $ Platformer Games $ Otome Games $ Action Roleplaying Games $ Shooter Games $ MMORPG $ Fighting Games $ Indie Games $ MOBA Games $ Pokédex $ Happy Elements
+$d Turn-Based RPGs $Platformer Games $Otome Games $Action Roleplaying Games $Shooter Games $MMORPG $Fighting Games $Indie Games $MOBA Games $Pokédex $Happy Elements
 ```
 
 ### Result
