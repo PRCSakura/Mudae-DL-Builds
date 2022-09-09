@@ -1,6 +1,6 @@
-   People’s Republic of China Sakura’s Disable List (Max Damage Build)
+   # People’s Republic of China Sakura’s Disable List (Max Damage Build)
 
-My sincerest gratitudes to:
+## My sincerest gratitudes to:
 
 - **ShadowShift**, he made the bundle lists in the 1st place (without them, DL builds would not be possible.) 
 - **Dee Pink**, he gave me a tip on how to hit harder on DL (especially with Premium) and optimized my `$wa` DL once (eventually, I optimized it further and we both used it on both high and low risk servers).
@@ -494,7 +494,7 @@ Original build credit to unknown user.
 
 ### Command
 ```
-$disable Shueisha $Kodansha $Tokusatsu $KakaoPage $Boys' Love $Pokédex $Shogakukan $Akita Shoten $Shounen Ace $Isekai Quartet $GFantasy
+$d Shueisha $Kodansha $Tokusatsu $KakaoPage $Boys' Love $Pokédex $Shogakukan $Akita Shoten $Shounen Ace $Isekai Quartet $GFantasy
 ```
 
 ### Result
@@ -558,7 +558,7 @@ Westerns but no IRL
 
 ### Command
 ```
-$d Western$Pokédex$Boys' Love $KakaoPage $Jump Magazines $Saint Seiya: The Lost Canvas $Ensemble Stars! $The iDOLM@STER SideM $IDOLiSH7 $A3! $Ahiru no Sora
+$d Western $Pokédex $Boys' Love $KakaoPage $Jump Magazines $Saint Seiya: The Lost Canvas $Ensemble Stars! $The iDOLM@STER SideM $IDOLiSH7 $A3! $Ahiru no Sora
 ```
 
 ### Result
