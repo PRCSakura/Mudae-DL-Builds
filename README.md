@@ -44,15 +44,87 @@ https://mudae-tools.gustavbylund.se/split-list/
 
 ## Disable counts
 
-
-| Roll type | 22.5K/11 | T:i 22.5K/11 | T:wi 22.5K/11 | T:wihd 22.5K/11 | T:i 27.5k/51 | T:w 27.5k/51 | T:wi 27.5k/51 |
-|-----------|----------|--------------|---------------|-----------------|--------------|--------------|---------------|
-| $wa       |  18025   |              |               |      19655      |    14901     |              |    21030      |
-| $ha       |  14034   |    14749     |     20569     |                 |              |     17329    |    22549      |
-| $wg       |          |              |     13017     |                 |              |              |     15307     |
-| $hg       |          |              |     11119     |                 |              |              |               |
+| Roll type | 22.5K/11 | T:i 22.5K/11 | T:wi 22.5K/11 | T:wihd 22.5K/11 | T:i 27.5k/51 | T:w 27.5k/51 | T:wi 27.5k/51 |T:wih 27.5k/51 |
+|-----------|----------|--------------|---------------|-----------------|--------------|--------------|---------------|---------------|
+| $wa       |          |              |     18025     |      19655      |    14901     |              |    21030      |     22239     |
+| $ha       |  14034   |    14749     |     20569     |                 |              |     17329    |    22549      |               |
+| $wg       |          |              |     13017     |                 |              |              |    15307      |               |
+| $hg       |          |              |     11119     |                 |              |              |               |               |
 
 ---
+
+## Type `$wa`,`27.5k/51`, `$tw+$ti+$th`
+
+
+### Command
+```
+$d Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Shogakukan $Houbunsha $Akita Shoten $Dig Delight Direct Drive DJ $ Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $WIXOSS $Pokédex $Princess Connect! Re:Dive $Young Gangan $Takeshobo $Tencent Manhua $Futabasha $Hakusensha $Medaka Box $Mag Garden $The iDOLM@STER Cinderella Girls $Weekly Young Jump $Overlap $Cycomics $Hobby Japan $Gangan Online $To LOVE-Ru $ Grand Jump $Kawamoto Homura's Works $Yuki Tabata's Works $Shokugeki no Souma $Chainsaw Man $Claymore $Dr. Stone $Hardcore Leveling Warrior $Kubera - One Last God $Munpia $Release that Witch $Tower of God $Naruto Series $Bleach Series $Shounen Jump+ Originals $Pokémon Anime
+```
+
+### Result
+```
+44103 disabled (22239 $wa, 19354 $ha, 5126 $wg, 2531 $hg)
+Pool limits: 25659 $wa, 25521 $ha, 17479 $wg, 14663 $hg
+
+Overlap limit: 27500 / 27500 characters
+(15861 $wa, 10762 $ha, 3346 $wg, 2044 $hg)
+
+Western animanga series are completely disabled ($togglewestern)
+IRL series are completely disabled ($toggleirl)
+
+Kadokawa Future Publishing (10231 ~ 6205 $wa, 3071 $ha, 1779 $wg, 800 $hg)
+Kodansha (5381 ~ 2763 $wa, 2436 $ha, 329 $wg, 302 $hg)
+Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
+Shogakukan (3232 ~ 1455 $wa, 1751 $ha, 310 $wg, 447 $hg)
+Houbunsha (616 ~ 451 $wa, 57 $ha, 127 $wg, 2 $hg)
+Akita Shoten (749 ~ 418 $wa, 334 $ha, 16 $wg, 6 $hg)
+Dig Delight Direct Drive DJ (30 ~ 26 $wa, 1 $ha, 29 $wg, 1 $hg)
+Artwork (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
+Comic Meteor (96 ~ 78 $wa, 19 $ha, 0 $wg, 0 $hg)
+Comic Valkyrie (70 ~ 66 $wa, 4 $ha, 0 $wg, 0 $hg)
+Comic Ryu (83 ~ 75 $wa, 8 $ha, 0 $wg, 0 $hg)
+The Evillious Chronicles (66 ~ 41 $wa, 25 $ha, 0 $wg, 0 $hg)
+AlphaPolis (56 ~ 40 $wa, 16 $ha, 0 $wg, 0 $hg)
+To Books (58 ~ 33 $wa, 25 $ha, 0 $wg, 0 $hg)
+Voice Synthesizers (181 ~ 124 $wa, 63 $ha, 18 $wg, 2 $hg)
+Super Crown (18 ~ 18 $wa, 0 $ha, 0 $wg, 0 $hg)
+Chuunibyou demo Koi ga Shitai! (22 ~ 18 $wa, 4 $ha, 0 $wg, 0 $hg)
+Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
+WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
+Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
+Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
+Young Gangan (453 ~ 310 $wa, 147 $ha, 0 $wg, 0 $hg)
+Takeshobo (190 ~ 116 $wa, 81 $ha, 0 $wg, 0 $hg)
+Tencent Manhua (214 ~ 124 $wa, 90 $ha, 0 $wg, 0 $hg)
+Futabasha (275 ~ 169 $wa, 107 $ha, 0 $wg, 0 $hg)
+Hakusensha (711 ~ 324 $wa, 398 $ha, 7 $wg, 36 $hg)
+Medaka Box (89 ~ 57 $wa, 33 $ha, 0 $wg, 0 $hg)
+Mag Garden (324 ~ 171 $wa, 158 $ha, 2 $wg, 10 $hg)
+The iDOLM@STER Cinderella Girls (161 ~ 90 $wa, 1 $ha, 159 $wg, 1 $hg)
+Weekly Young Jump (541 ~ 256 $wa, 290 $ha, 9 $wg, 1 $hg)
+Overlap (183 ~ 146 $wa, 39 $ha, 0 $wg, 0 $hg)
+Cycomics (46 ~ 32 $wa, 14 $ha, 0 $wg, 0 $hg)
+Hobby Japan (196 ~ 170 $wa, 26 $ha, 0 $wg, 0 $hg)
+Gangan Online (428 ~ 249 $wa, 159 $ha, 48 $wg, 35 $hg)
+To LOVE-Ru (28 ~ 22 $wa, 6 $ha, 0 $wg, 0 $hg)
+Grand Jump (45 ~ 33 $wa, 12 $ha, 0 $wg, 0 $hg)
+Kawamoto Homura's Works (39 ~ 34 $wa, 5 $ha, 0 $wg, 0 $hg)
+Yuki Tabata's Works (104 ~ 41 $wa, 66 $ha, 0 $wg, 0 $hg)
+Shokugeki no Souma (59 ~ 32 $wa, 27 $ha, 0 $wg, 0 $hg)
+Chainsaw Man (39 ~ 23 $wa, 23 $ha, 0 $wg, 0 $hg)
+Claymore (24 ~ 21 $wa, 3 $ha, 0 $wg, 0 $hg)
+Dr. Stone (49 ~ 23 $wa, 28 $ha, 0 $wg, 0 $hg)
+Hardcore Leveling Warrior (59 ~ 22 $wa, 37 $ha, 0 $wg, 0 $hg)
+Kubera - One Last God (54 ~ 31 $wa, 25 $ha, 0 $wg, 0 $hg)
+Munpia (101 ~ 48 $wa, 54 $ha, 0 $wg, 0 $hg)
+Release that Witch (35 ~ 32 $wa, 3 $ha, 0 $wg, 0 $hg)
+Tower of God (125 ~ 50 $wa, 78 $ha, 0 $wg, 0 $hg)
+Naruto Series (232 ~ 73 $wa, 164 $ha, 0 $wg, 1 $hg)
+Bleach Series (208 ~ 69 $wa, 141 $ha, 1 $wg, 1 $hg)
+Shounen Jump+ Originals (224 ~ 142 $wa, 90 $ha, 0 $wg, 0 $hg)
+Pokémon Anime (167 ~ 90 $wa, 101 $ha, 0 $wg, 1 $hg)
+```
+
 ## Type `$wa`,`27.5k/51`, `$tw+$ti`
 Original build credit to Dee Pink for helping me out.
 Broke the 21k damage barrier. But… disabling duplicate characters doesn’t eat up the overlap limit when?
@@ -424,7 +496,7 @@ $d Turn-Based RPGs $Platformer Games $Otome Games $Action Roleplaying Games $Sho
 Disable List Build (mainly for F2P’s)
 P.S.: F2P DL builds are possible but they do not hit too hard. Majorities of requests I have received were from Mudaeists who have little resources (and it will be useful for me in case my Premium expires). Until Saya buffs GM1 correctly, **build Tower 1’s F3 ASAP.**
 
-## Type `$wa`,`22.5K/11`
+## Type `$wa`,`22.5K/11`,` $tw+$ti`
 $wa (18,020 disabled).
 Takes 11/11 slots and 22,489/22,500 overlap limit.
 
