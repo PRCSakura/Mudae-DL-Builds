@@ -8,6 +8,7 @@
 - **Anonymous** (preferred not to be mentioned) and an unknown player who made the original `$wg` DL’s.
 - **An unknown** player made the original `$ha` DL.
 - My friends who gave me encouragement to keep me going.
+- Original builds (some) credit to sedmelluq. https://gist.github.com/sedmelluq/6944fa5d8100e44c34cb31c93ec113a9
 
 Despite GM1 fighting a losing battle and on heavy life support, the battle is yet to end. It truly ends when it gets phased out completely. 
 
