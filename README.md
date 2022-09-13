@@ -1,4 +1,4 @@
-    People’s Republic of China Sakura’s Disable List (Max Damage Build)
+ People’s Republic of China Sakura’s Disable List (Max Damage Build)
 
 ## My sincerest gratitudes to:
 
@@ -26,8 +26,8 @@ You want to roll (keys) for your favorite girls/dudes? Use those DL’s.
 https://mudae-tools.gustavbylund.se/split-list/
 
 **[Mudae's all bundle (Updated within the last 2 weeks)](https://docs.google.com/spreadsheets/d/1uSn_E6bdzkQzB-tmDii1Es21tz9hvbvEckc6pGOno40/edit#gid=1694910888)**
-
 ---
+
 # Terminology
 
 * `$tw` - `$togglewestern`, personal toggle (assumed always used thus series from `Western` disabled)
@@ -40,7 +40,7 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `damage` - Number of characters disabled for the target roulette on the disablelist
 * `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
 * `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
----
+
 
 ## Disable counts
 
@@ -51,6 +51,25 @@ https://mudae-tools.gustavbylund.se/split-list/
 | $wg       |          |              |     13017     |                 |              |              |    15307      |               |
 | $hg       |          |              |     11119     |                 |              |              |               |               |
 
+# Table of Contents
+- $wa
+  - [22.5K/11, $tw+$ti](#type-wa225k11-twti)
+  - [22.5K/11, $tw+$ti+$th+$td](#type-wa225k11-twtithtd)
+  - [27.5k/51, $ti](#type-wa275k51-ti)
+  - [27.5k/51, $tw+$ti](#type-wa275k51-twti)
+  - [27.5k/51, $tw+$ti+$th](#type-wa275k51-twtith)
+- $ha
+  - [22.5K/11](#type-ha225k11)
+  - [22.5K/11, $ti](#type-ha225k11-ti)
+  - [22.5K/11, $tw+$ti](#type-ha225k11-twti)
+  - [27.5k/51, $tw](#type-ha275k51-tw)
+  - [27.5k/51, $tw+$ti](#type-ha275k51-twti)
+- $wg
+  - [$wg,22.5K/11, $tw+$ti](#type-wg225k11-twti)
+  - [$wg,27.5k/51, $tw+$ti](#type-wg275k51-twti)
+- $hg
+  - [22.5K/11, $tw+$ti](#type-wg225k11-twti)
+  - [27.5k/51, $tw+$ti](#type-hg275k51-twti)
 ---
 
 ## Type `$wa`,`27.5k/51`, `$tw+$ti+$th`
