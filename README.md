@@ -10,11 +10,9 @@
 - My friends who gave me encouragement to keep me going.
 - Original builds (some) credit to sedmelluq. https://gist.github.com/sedmelluq/6944fa5d8100e44c34cb31c93ec113a9
 
-Despite GM1 fighting a losing battle and on heavy life support, the battle is yet to end. It truly ends when it gets phased out completely. 
+Note: Those are maximum damage DL builds (disable the highest count of target roulette’s characters based on how many slots + overlap limits you have, to score wishes/keys more often), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste but expect damage loss). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). 
 
-Note: You can copy and paste the DL’s. Those are maximum damage DL builds, they might contain the series you want to roll, if so, replace the desired series with something else. Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except `$toggle` and `$sdl`). 
-
-If you hesitate that someone will copy the DL build, add an additional “d” when disabling (in this case `$dd`) and cloak the build (`$disabledm`).
+Thanks to Mode 1’s recent buff (on 2022/9/27), it made a massive comeback and became viable again to compete with its $limroul counterpart (GM2). In addition, such buffs souped up Western/IRL and F2P DL’s potency.
 
 If you have any matters/questions on DL builds, contact me on Discord:
 UberMillennium RailgunPro#6433
