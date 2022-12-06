@@ -23,7 +23,7 @@ You want to roll (keys) for your favorite girls/dudes? Use those DL’s.
 
 https://mudae-tools.gustavbylund.se/split-list/
 
-**[Mudae's all bundle (Updated within the last 2 weeks)](https://docs.google.com/spreadsheets/d/1uSn_E6bdzkQzB-tmDii1Es21tz9hvbvEckc6pGOno40/edit#gid=1694910888)**
+Because the time needed to maintain the DL builds stats in GitHub, I have decided to keep up-to-date DL's in my Google Doc. https://docs.google.com/document/u/1/d/1PyQndAulABxABLesQ9inJHJyG-IWJhiKHb4CjXQ4gGU/edit?ouid=109571546163921986628&usp=docs_home&ths=true
 ---
 
 # Terminology
@@ -36,8 +36,6 @@ https://mudae-tools.gustavbylund.se/split-list/
 * `T:wih` - `$tw`+`$ti`+`$th`
 * `T:wihd` - `$tw`+`$ti`+`$th`+`$td` 
 * `damage` - Number of characters disabled for the target roulette on the disablelist
-* `22.5K/11` - disablelist capacity 22500, with 11 slots, achieved by taking floor 3 from first tower
-* `27.5k/51` -  disablelist capacity 27500, with 51 slots, Player Premium +floor 3 from first tower
 
 
 ## Disable counts
