@@ -1,4 +1,4 @@
- People’s Republic of China Sakura’s Disable List (Max Damage Build)
+ People’s Republic of China Sakura’s Disable List (Max Damage Build) Depreciated
 
 ## My sincerest gratitudes to:
 
