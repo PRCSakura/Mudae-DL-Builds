@@ -1,30 +1,24 @@
- People’s Republic of China Sakura’s Disable List (Max Damage Build) Depreciated
+ People’s Republic of China Sakura’s Disable List (Reconstruction for 2026, WIP)
 
 ## My sincerest gratitudes to:
 
 - **ShadowShift**, he made the bundle lists in the 1st place (without them, DL builds would not be possible.) 
-- **Dee Pink**, he gave me a tip on how to hit harder on DL (especially with Premium) and optimized my `$wa` DL once (eventually, I optimized it further and we both used it on both high and low risk servers).
-- **SleepyRanger**, he gave me the right command for zeroing in series from bundles that are deemed undesirable to hit on. Latest shoutout yes.
+- **Dee Pink**, he gave me a tip on how to hit harder on DL (especially with Premium) and optimized my `$wa` DL once. 
+- **SleepyRanger**, he gave me the right command for zeroing in series from bundles that are deemed undesirable to hit on. 
 - **Anonymous** (preferred not to be mentioned) and an unknown player who made the original `$wg` DL’s.
 - **An unknown** player made the original `$ha` DL.
 - My friends who gave me encouragement to keep me going.
 - Original builds (some) credit to sedmelluq. https://gist.github.com/sedmelluq/6944fa5d8100e44c34cb31c93ec113a9
 
-Note: Those are maximum damage DL builds (disable the highest count of target roulette’s characters based on how many slots + overlap limits you have, to score wishes/keys more often), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste but expect damage loss). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). 
+Note: Those are optimal DL builds (disable the highest count of target roulette’s characters based on how many slots), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste thanks ). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). I do need to update the lists once per character update.
 
-Thanks to Mode 1’s recent buff (on 2022/9/27), it made a massive comeback and became viable again to compete with its $limroul counterpart (GM2). In addition, such buffs souped up Western/IRL and F2P DL’s potency.
+If you have any matters/questions on DL builds, contact me on Discord by user ID: 405717573230133248
 
-If you have any matters/questions on DL builds, contact me on Discord:
-UberMillennium RailgunPro#6433
+https://mudae-tools.gustavbylund.se/split-list/ 
 
-You want to roll (keys) for your favorite girls/dudes? Use those DL’s.
+https://mudaehelper.pages.dev/ DL Generator made by TheForceOne 
 
-#BuffGM1 #GM1Supremacy
-
-https://mudae-tools.gustavbylund.se/split-list/
-
-Because the time needed to maintain the DL builds stats in GitHub, I have decided to keep up-to-date DL's in my Google Doc. https://docs.google.com/document/u/1/d/1PyQndAulABxABLesQ9inJHJyG-IWJhiKHb4CjXQ4gGU/edit?ouid=109571546163921986628&usp=docs_home&ths=true
----
+DL Guide for 2026 (Need update, TBA)
 
 # Terminology
 
@@ -32,244 +26,87 @@ Because the time needed to maintain the DL builds stats in GitHub, I have decide
 * `$ti` - `$toggleirl`, personal toggle (assumed always used thus series from `Real Life People` disabled)
 * `$th` - `$togglehentai`, server toggle (can do `$settings` to check if used)
 * `$td` - `$togglehorror`, server toggle (can do `$settings` to check if used)
-* `T:wi` - `$tw`+`$ti`
-* `T:wih` - `$tw`+`$ti`+`$th`
-* `T:wihd` - `$tw`+`$ti`+`$th`+`$td` 
-* `damage` - Number of characters disabled for the target roulette on the disablelist
+* 
 
 
-## Disable counts
 
-| Roll type | 22.5K/11 | T:i 22.5K/11 | T:wi 22.5K/11 | T:wihd 22.5K/11 | T:i 27.5k/51 | T:w 27.5k/51 | T:wi 27.5k/51 |T:wih 27.5k/51 |
-|-----------|----------|--------------|---------------|-----------------|--------------|--------------|---------------|---------------|
-| $wa       |          |              |     18025     |      19655      |    14901     |              |    21030      |     22239     |
-| $ha       |  14034   |    14749     |     20569     |                 |              |     17329    |    22549      |               |
-| $wg       |          |              |     13017     |                 |              |              |    15307      |               |
-| $hg       |          |              |     11119     |                 |              |              |               |               |
+## $wa + $ha, Pool size: 7000, Slot: 15, $tw+$ti
+Original build credit to Dee Pink for helping me out (back when I was a rookie).
 
-# Table of Contents
-- $wa
-  - [22.5K/11, $tw+$ti](#type-wa225k11-twti)
-  - [22.5K/11, $tw+$ti+$th+$td](#type-wa225k11-twtithtd)
-  - [27.5k/51, $ti](#type-wa275k51-ti)
-  - [27.5k/51, $tw+$ti](#type-wa275k51-twti)
-  - [27.5k/51, $tw+$ti+$th](#type-wa275k51-twtith)
-- $ha
-  - [22.5K/11](#type-ha225k11)
-  - [22.5K/11, $ti](#type-ha225k11-ti)
-  - [22.5K/11, $tw+$ti](#type-ha225k11-twti)
-  - [27.5k/51, $tw](#type-ha275k51-tw)
-  - [27.5k/51, $tw+$ti](#type-ha275k51-twti)
-- $wg
-  - [$wg,22.5K/11, $tw+$ti](#type-wg225k11-twti)
-  - [$wg,27.5k/51, $tw+$ti](#type-wg275k51-twti)
-- $hg
-  - [22.5K/11, $tw+$ti](#type-wg225k11-twti)
-  - [27.5k/51, $tw+$ti](#type-hg275k51-twti)
----
-
-## Type `$wa`,`27.5k/51`, `$tw+$ti+$th`
-
-
+Note: For players who want to roll Western or/and IRL series, turn them on, swap out Hobby Japan or/and Tokuma Shoten, then $d Western $IRL. 
 ### Command
 ```
-$d Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Shogakukan $Houbunsha $Akita Shoten $Dig Delight Direct Drive DJ $ Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $WIXOSS $Pokédex $Princess Connect! Re:Dive $Young Gangan $Takeshobo $Tencent Manhua $Futabasha $Hakusensha $Medaka Box $Mag Garden $The iDOLM@STER Cinderella Girls $Weekly Young Jump $Overlap $Cycomics $Hobby Japan $Gangan Online $To LOVE-Ru $ Grand Jump $Kawamoto Homura's Works $Yuki Tabata's Works $Shokugeki no Souma $Chainsaw Man $Claymore $Dr. Stone $Hardcore Leveling Warrior $Kubera - One Last God $Munpia $Release that Witch $Tower of God $Naruto Series $Bleach Series $Shounen Jump+ Originals $Pokémon Anime
+$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten
+
 ```
 
 ### Result
 ```
-44103 disabled (22239 $wa, 19354 $ha, 5126 $wg, 2531 $hg)
-Pool limits: 25659 $wa, 25521 $ha, 17479 $wg, 14663 $hg
+ubermillennium_railgunpro_6433's Disablelist (15/148)
+82,628 disabled (38,492 $wa, 39,855 $ha, 7,459 $wg, 3,982 $hg)
+Pool limits: 43,500 $wa, 44,874 $ha, 31,919 $wg, 27,397 $hg
 
-Overlap limit: 27500 / 27500 characters
-(15861 $wa, 10762 $ha, 3346 $wg, 2044 $hg)
+Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
 
 Western animanga series are completely disabled ($togglewestern)
 IRL series are completely disabled ($toggleirl)
 
-Kadokawa Future Publishing (10231 ~ 6205 $wa, 3071 $ha, 1779 $wg, 800 $hg)
-Kodansha (5381 ~ 2763 $wa, 2436 $ha, 329 $wg, 302 $hg)
-Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
-Shogakukan (3232 ~ 1455 $wa, 1751 $ha, 310 $wg, 447 $hg)
-Houbunsha (616 ~ 451 $wa, 57 $ha, 127 $wg, 2 $hg)
-Akita Shoten (749 ~ 418 $wa, 334 $ha, 16 $wg, 6 $hg)
-Dig Delight Direct Drive DJ (30 ~ 26 $wa, 1 $ha, 29 $wg, 1 $hg)
-Artwork (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
-Comic Meteor (96 ~ 78 $wa, 19 $ha, 0 $wg, 0 $hg)
-Comic Valkyrie (70 ~ 66 $wa, 4 $ha, 0 $wg, 0 $hg)
-Comic Ryu (83 ~ 75 $wa, 8 $ha, 0 $wg, 0 $hg)
-The Evillious Chronicles (66 ~ 41 $wa, 25 $ha, 0 $wg, 0 $hg)
-AlphaPolis (56 ~ 40 $wa, 16 $ha, 0 $wg, 0 $hg)
-To Books (58 ~ 33 $wa, 25 $ha, 0 $wg, 0 $hg)
-Voice Synthesizers (181 ~ 124 $wa, 63 $ha, 18 $wg, 2 $hg)
-Super Crown (18 ~ 18 $wa, 0 $ha, 0 $wg, 0 $hg)
-Chuunibyou demo Koi ga Shitai! (22 ~ 18 $wa, 4 $ha, 0 $wg, 0 $hg)
-Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
-WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
-Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
-Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
-Young Gangan (453 ~ 310 $wa, 147 $ha, 0 $wg, 0 $hg)
-Takeshobo (190 ~ 116 $wa, 81 $ha, 0 $wg, 0 $hg)
-Tencent Manhua (214 ~ 124 $wa, 90 $ha, 0 $wg, 0 $hg)
-Futabasha (275 ~ 169 $wa, 107 $ha, 0 $wg, 0 $hg)
-Hakusensha (711 ~ 324 $wa, 398 $ha, 7 $wg, 36 $hg)
-Medaka Box (89 ~ 57 $wa, 33 $ha, 0 $wg, 0 $hg)
-Mag Garden (324 ~ 171 $wa, 158 $ha, 2 $wg, 10 $hg)
-The iDOLM@STER Cinderella Girls (161 ~ 90 $wa, 1 $ha, 159 $wg, 1 $hg)
-Weekly Young Jump (541 ~ 256 $wa, 290 $ha, 9 $wg, 1 $hg)
-Overlap (183 ~ 146 $wa, 39 $ha, 0 $wg, 0 $hg)
-Cycomics (46 ~ 32 $wa, 14 $ha, 0 $wg, 0 $hg)
-Hobby Japan (196 ~ 170 $wa, 26 $ha, 0 $wg, 0 $hg)
-Gangan Online (428 ~ 249 $wa, 159 $ha, 48 $wg, 35 $hg)
-To LOVE-Ru (28 ~ 22 $wa, 6 $ha, 0 $wg, 0 $hg)
-Grand Jump (45 ~ 33 $wa, 12 $ha, 0 $wg, 0 $hg)
-Kawamoto Homura's Works (39 ~ 34 $wa, 5 $ha, 0 $wg, 0 $hg)
-Yuki Tabata's Works (104 ~ 41 $wa, 66 $ha, 0 $wg, 0 $hg)
-Shokugeki no Souma (59 ~ 32 $wa, 27 $ha, 0 $wg, 0 $hg)
-Chainsaw Man (39 ~ 23 $wa, 23 $ha, 0 $wg, 0 $hg)
-Claymore (24 ~ 21 $wa, 3 $ha, 0 $wg, 0 $hg)
-Dr. Stone (49 ~ 23 $wa, 28 $ha, 0 $wg, 0 $hg)
-Hardcore Leveling Warrior (59 ~ 22 $wa, 37 $ha, 0 $wg, 0 $hg)
-Kubera - One Last God (54 ~ 31 $wa, 25 $ha, 0 $wg, 0 $hg)
-Munpia (101 ~ 48 $wa, 54 $ha, 0 $wg, 0 $hg)
-Release that Witch (35 ~ 32 $wa, 3 $ha, 0 $wg, 0 $hg)
-Tower of God (125 ~ 50 $wa, 78 $ha, 0 $wg, 0 $hg)
-Naruto Series (232 ~ 73 $wa, 164 $ha, 0 $wg, 1 $hg)
-Bleach Series (208 ~ 69 $wa, 141 $ha, 1 $wg, 1 $hg)
-Shounen Jump+ Originals (224 ~ 142 $wa, 90 $ha, 0 $wg, 0 $hg)
-Pokémon Anime (167 ~ 90 $wa, 101 $ha, 0 $wg, 1 $hg)
+Kadokawa Corporation (12,836 ~ 7,863 $wa, 3,986 $ha, 2,114 $wg, 903 $hg)
+Shueisha (10,348 ~ 4,288 $wa, 6,338 $ha, 163 $wg, 535 $hg)
+Hentai (9,074 ~ 3,827 $wa, 1,310 $ha, 3,730 $wg, 701 $hg)
+Kodansha (7,740 ~ 3,922 $wa, 3,587 $ha, 331 $wg, 416 $hg)
+Shogakukan (4,533 ~ 2,124 $wa, 2,439 $ha, 321 $wg, 512 $hg)
+Manhwa (6,606 ~ 3,185 $wa, 3,488 $ha, 4 $wg, 3 $hg)
+Manhua (1,196 ~ 580 $wa, 623 $ha, 0 $wg, 0 $hg)
+Houbunsha (829 ~ 606 $wa, 90 $ha, 158 $wg, 2 $hg)
+Virtual YouTubers (1,116 ~ 889 $wa, 296 $ha, 14 $wg, 1 $hg)
+Anime Originals (3,716 ~ 2,047 $wa, 1,787 $ha, 56 $wg, 21 $hg)
+Virtual Music (2,263 ~ 1,080 $wa, 901 $ha, 731 $wg, 500 $hg)
+OVERLAP (375 ~ 280 $wa, 100 $ha, 0 $wg, 0 $hg)
+Gangan Comics (3,408 ~ 2,031 $wa, 1,368 $ha, 97 $wg, 82 $hg)
+Hobby Japan (381 ~ 313 $wa, 72 $ha, 0 $wg, 0 $hg)
+Tokuma Shoten (152 ~ 115 $wa, 39 $ha, 5 $wg, 5 $hg)
 ```
 
-## Type `$wa`,`27.5k/51`, `$tw+$ti`
-Original build credit to Dee Pink for helping me out.
-Broke the 21k damage barrier. But… disabling duplicate characters doesn’t eat up the overlap limit when?
+## $wa + $ha, Player Prem 1 (6,300 pool size + 55 slots, assume no other boosts), $tw + $toggleirl 
 
 ### Command
 ```
-$d Kadokawa Future Publishing $Kodansha $Virtual YouTubers $Shogakukan $Houbunsha $Akita Shoten $T-Rex $Dig Delight Direct Drive DJ $Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $Queen Bee $PoRO $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $Monster Girl Encyclopedia Series $WIXOSS $Pink Pineapple $Eromanhwa $Pokédex $Princess Connect! Re:Dive $Korotsuke's Works $Young Gangan $Takeshobo $Tencent Manhua $Futabasha $Hakusensha $Medaka Box $MS Pictures $Mag Garden $The iDOLM@STER Cinderella Girls $Weekly Young Jump $Overlap $Cycomics $Hobby Japan $Synapse Series $Gangan Online $Mary Jane $TLR $Windows 1st Generation $Grand Jump $Kawamoto Homura's Works $Collaboration Works $Suzuki Mirano $Majin
+$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten $ Akita Shoten $ Mag Garden $ Shinshokan $ Canna $ Taiyo Tosho
+
 ```
 
 ### Result
 ```
-40065 disabled (21030 $wa, 18311 $ha, 3551 $wg, 2236 $hg)
-Pool limits: 25659 $wa, 25521 $ha, 17480 $wg, 14662 $hg
+ubermillennium_railgunpro_6433's Disablelist (20/148)
+83,998 disabled (39,171 $wa, 40,561 $ha, 7,474 $wg, 3,989 $hg)
+Pool limits: 43,500 $wa, 44,874 $ha, 31,919 $wg, 27,397 $hg
 
-Overlap limit: 27500 / 27500 characters
-(16276 $wa, 10182 $ha, 3502 $wg, 2060 $hg)
+Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
 
 Western animanga series are completely disabled ($togglewestern)
 IRL series are completely disabled ($toggleirl)
 
-Kadokawa Future Publishing (10231 ~ 6205 $wa, 3071 $ha, 1779 $wg, 800 $hg)
-Kodansha (5381 ~ 2763 $wa, 2436 $ha, 329 $wg, 302 $hg)
-Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
-Shogakukan (3232 ~ 1455 $wa, 1751 $ha, 310 $wg, 447 $hg)
-Houbunsha (616 ~ 451 $wa, 57 $ha, 127 $wg, 2 $hg)
-Akita Shoten (749 ~ 418 $wa, 334 $ha, 16 $wg, 6 $hg)
-T-Rex (251 ~ 226 $wa, 3 $ha, 21 $wg, 1 $hg)
-Dig Delight Direct Drive DJ (30 ~ 26 $wa, 1 $ha, 29 $wg, 1 $hg)
-Artwork (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
-Comic Meteor (96 ~ 78 $wa, 19 $ha, 0 $wg, 0 $hg)
-Comic Valkyrie (70 ~ 66 $wa, 4 $ha, 0 $wg, 0 $hg)
-Comic Ryu (83 ~ 75 $wa, 8 $ha, 0 $wg, 0 $hg)
-The Evillious Chronicles (66 ~ 41 $wa, 25 $ha, 0 $wg, 0 $hg)
-AlphaPolis (56 ~ 40 $wa, 16 $ha, 0 $wg, 0 $hg)
-Queen Bee (44 ~ 44 $wa, 0 $ha, 0 $wg, 0 $hg)
-PoRO (41 ~ 34 $wa, 0 $ha, 6 $wg, 1 $hg)
-To Books (58 ~ 33 $wa, 25 $ha, 0 $wg, 0 $hg)
-Voice Synthesizers (181 ~ 124 $wa, 63 $ha, 18 $wg, 2 $hg)
-Super Crown (18 ~ 18 $wa, 0 $ha, 0 $wg, 0 $hg)
-Chuunibyou demo Koi ga Shitai! (22 ~ 18 $wa, 4 $ha, 0 $wg, 0 $hg)
-Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
-Monster Girl Encyclopedia Series (26 ~ 24 $wa, 0 $ha, 2 $wg, 0 $hg)
-WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
-Pink Pineapple (213 ~ 188 $wa, 6 $ha, 31 $wg, 2 $hg)
-Eromanhwa (488 ~ 248 $wa, 241 $ha, 0 $wg, 0 $hg)
-Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
-Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
-Korotsuke's Works (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
-Young Gangan (453 ~ 310 $wa, 147 $ha, 0 $wg, 0 $hg)
-Takeshobo (190 ~ 116 $wa, 81 $ha, 0 $wg, 0 $hg)
-Tencent Manhua (214 ~ 124 $wa, 90 $ha, 0 $wg, 0 $hg)
-Futabasha (275 ~ 169 $wa, 107 $ha, 0 $wg, 0 $hg)
-Hakusensha (711 ~ 324 $wa, 398 $ha, 7 $wg, 36 $hg)
-Medaka Box (89 ~ 57 $wa, 33 $ha, 0 $wg, 0 $hg)
-MS Pictures (143 ~ 111 $wa, 2 $ha, 22 $wg, 11 $hg)
-Mag Garden (324 ~ 171 $wa, 158 $ha, 2 $wg, 10 $hg)
-The iDOLM@STER Cinderella Girls (161 ~ 90 $wa, 1 $ha, 159 $wg, 1 $hg)
-Weekly Young Jump (541 ~ 256 $wa, 290 $ha, 9 $wg, 1 $hg)
-Overlap (183 ~ 146 $wa, 39 $ha, 0 $wg, 0 $hg)
-Cycomics (46 ~ 32 $wa, 14 $ha, 0 $wg, 0 $hg)
-Hobby Japan (196 ~ 170 $wa, 26 $ha, 0 $wg, 0 $hg)
-Synapse Series (32 ~ 31 $wa, 1 $ha, 0 $wg, 0 $hg)
-Gangan Online (428 ~ 249 $wa, 159 $ha, 48 $wg, 35 $hg)
-Mary Jane (69 ~ 57 $wa, 0 $ha, 16 $wg, 0 $hg)
-To LOVE-Ru (28 ~ 22 $wa, 6 $ha, 0 $wg, 0 $hg)
-Windows 1st Generation (37 ~ 26 $wa, 0 $ha, 37 $wg, 1 $hg)
-Grand Jump (45 ~ 33 $wa, 12 $ha, 0 $wg, 0 $hg)
-Kawamoto Homura's Works (39 ~ 34 $wa, 5 $ha, 0 $wg, 0 $hg)
-Collaboration Works (30 ~ 27 $wa, 2 $ha, 0 $wg, 1 $hg)
-Suzuki Mirano (31 ~ 26 $wa, 2 $ha, 3 $wg, 0 $hg)
-Majin (52 ~ 47 $wa, 3 $ha, 19 $wg, 2 $hg)
-```
-
-## Type `$wa`,`27.5k/51`, `$ti`
-For Western but no IRL (14.9k damage)
-
-### Command
-```
-$d Western $Kadokawa Future Publishing $Houbunsha $Akita Shoten $T-Rex $Dig Delight Direct Drive DJ $Artwork $Comic Meteor $Comic Valkyrie $Comic Ryu $The Evillious Chronicles $AlphaPolis $Queen Bee $PoRO $To Books $Voice Synthesizers $Super Crown $Chuunibyou demo Koi ga Shitai! $Wonder Egg Priority $Monster Girl Encyclopedia Series $WIXOSS $Pink Pineapple $Pokédex $Princess Connect! Re:Dive $Korotsuke's Works $Medaka Box $MS Pictures $Overlap $Cycomics $Synapse Series $Mary Jane $To LOVE-Ru $Windows 1st Generation $Grand Jump $Kawamoto Homura's Works $Collaboration Works $Suzuki Mirano $Majin $Virtual YouTubers
-```
-
-### Result
-```
-28000 disabled (14901 $wa, 12642 $ha, 2748 $wg, 1439 $hg)
-Pool limits: 25659 $wa, 25521 $ha, 17480 $wg, 14662 $hg
-
-Overlap limit: 27488 / 27500 characters
-(14716 $wa, 12304 $ha, 2758 $wg, 1437 $hg)
-
-IRL series are completely disabled ($toggleirl)
-
-Western (12582 ~ 4885 $wa, 8007 $ha, 120 $wg, 209 $hg)
-Kadokawa Future Publishing (10231 ~ 6205 $wa, 3071 $ha, 1779 $wg, 800 $hg)
-Houbunsha (616 ~ 451 $wa, 57 $ha, 127 $wg, 2 $hg)
-Akita Shoten (749 ~ 418 $wa, 334 $ha, 16 $wg, 6 $hg)
-T-Rex (251 ~ 226 $wa, 3 $ha, 21 $wg, 1 $hg)
-Dig Delight Direct Drive DJ (30 ~ 26 $wa, 1 $ha, 29 $wg, 1 $hg)
-Artwork (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
-Comic Meteor (96 ~ 78 $wa, 19 $ha, 0 $wg, 0 $hg)
-Comic Valkyrie (70 ~ 66 $wa, 4 $ha, 0 $wg, 0 $hg)
-Comic Ryu (83 ~ 75 $wa, 8 $ha, 0 $wg, 0 $hg)
-The Evillious Chronicles (66 ~ 41 $wa, 25 $ha, 0 $wg, 0 $hg)
-AlphaPolis (56 ~ 40 $wa, 16 $ha, 0 $wg, 0 $hg)
-Queen Bee (44 ~ 44 $wa, 0 $ha, 0 $wg, 0 $hg)
-PoRO (41 ~ 34 $wa, 0 $ha, 6 $wg, 1 $hg)
-To Books (58 ~ 33 $wa, 25 $ha, 0 $wg, 0 $hg)
-Voice Synthesizers (181 ~ 124 $wa, 63 $ha, 18 $wg, 2 $hg)
-Super Crown (18 ~ 18 $wa, 0 $ha, 0 $wg, 0 $hg)
-Chuunibyou demo Koi ga Shitai! (22 ~ 18 $wa, 4 $ha, 0 $wg, 0 $hg)
-Wonder Egg Priority (28 ~ 23 $wa, 9 $ha, 0 $wg, 0 $hg)
-Monster Girl Encyclopedia Series (26 ~ 24 $wa, 0 $ha, 2 $wg, 0 $hg)
-WIXOSS (41 ~ 37 $wa, 1 $ha, 33 $wg, 0 $hg)
-Pink Pineapple (213 ~ 188 $wa, 6 $ha, 31 $wg, 2 $hg)
-Pokédex (406 ~ 392 $wa, 390 $ha, 394 $wg, 392 $hg)
-Princess Connect! Re:Dive (76 ~ 53 $wa, 3 $ha, 72 $wg, 5 $hg)
-Korotsuke's Works (23 ~ 23 $wa, 0 $ha, 0 $wg, 0 $hg)
-Medaka Box (89 ~ 57 $wa, 33 $ha, 0 $wg, 0 $hg)
-MS Pictures (143 ~ 111 $wa, 2 $ha, 22 $wg, 11 $hg)
-Overlap (183 ~ 146 $wa, 39 $ha, 0 $wg, 0 $hg)
-Cycomics (46 ~ 32 $wa, 14 $ha, 0 $wg, 0 $hg)
-Synapse Series (32 ~ 31 $wa, 1 $ha, 0 $wg, 0 $hg)
-Mary Jane (69 ~ 57 $wa, 0 $ha, 16 $wg, 0 $hg)
-To LOVE-Ru (28 ~ 22 $wa, 6 $ha, 0 $wg, 0 $hg)
-Windows 1st Generation (37 ~ 26 $wa, 0 $ha, 37 $wg, 1 $hg)
-Grand Jump (45 ~ 33 $wa, 12 $ha, 0 $wg, 0 $hg)
-Kawamoto Homura's Works (39 ~ 34 $wa, 5 $ha, 0 $wg, 0 $hg)
-Collaboration Works (30 ~ 27 $wa, 2 $ha, 0 $wg, 1 $hg)
-Suzuki Mirano (31 ~ 26 $wa, 2 $ha, 3 $wg, 0 $hg)
-Majin (52 ~ 47 $wa, 3 $ha, 19 $wg, 2 $hg)
-Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
+Kadokawa Corporation (12,836 ~ 7,863 $wa, 3,986 $ha, 2,114 $wg, 903 $hg)
+Shueisha (10,348 ~ 4,288 $wa, 6,338 $ha, 163 $wg, 535 $hg)
+Hentai (9,074 ~ 3,827 $wa, 1,310 $ha, 3,730 $wg, 701 $hg)
+Kodansha (7,740 ~ 3,922 $wa, 3,587 $ha, 331 $wg, 416 $hg)
+Shogakukan (4,533 ~ 2,124 $wa, 2,439 $ha, 321 $wg, 512 $hg)
+Manhwa (6,606 ~ 3,185 $wa, 3,488 $ha, 4 $wg, 3 $hg)
+Manhua (1,196 ~ 580 $wa, 623 $ha, 0 $wg, 0 $hg)
+Houbunsha (829 ~ 606 $wa, 90 $ha, 158 $wg, 2 $hg)
+Virtual YouTubers (1,116 ~ 889 $wa, 296 $ha, 14 $wg, 1 $hg)
+Anime Originals (3,716 ~ 2,047 $wa, 1,787 $ha, 56 $wg, 21 $hg)
+Virtual Music (2,263 ~ 1,080 $wa, 901 $ha, 731 $wg, 500 $hg)
+OVERLAP (375 ~ 280 $wa, 100 $ha, 0 $wg, 0 $hg)
+Gangan Comics (3,408 ~ 2,031 $wa, 1,368 $ha, 97 $wg, 82 $hg)
+Hobby Japan (381 ~ 313 $wa, 72 $ha, 0 $wg, 0 $hg)
+Tokuma Shoten (152 ~ 115 $wa, 39 $ha, 5 $wg, 5 $hg)
+Akita Shoten (1,112 ~ 605 $wa, 518 $ha, 15 $wg, 7 $hg)
+Mag Garden (405 ~ 212 $wa, 200 $ha, 2 $wg, 10 $hg)
+Shinshokan (93 ~ 9 $wa, 84 $ha, 0 $wg, 0 $hg)
+Canna (38 ~ 5 $wa, 33 $ha, 0 $wg, 0 $hg)
+Taiyo Tosho (36 ~ 11 $wa, 25 $ha, 0 $wg, 0 $hg)
 ```
 
 ## Type `$ha`,`27.5k/51`, `$tw+$ti`
@@ -278,7 +115,6 @@ Virtual YouTubers (634 ~ 522 $wa, 139 $ha, 13 $wg, 1 $hg)
 Broke the 22.5k damage barrier. That was… not too hard.
 ### Command
 ```
-$d Shueisha $Kodansha $Pokémon Anime $Shogakukan $Boys' Love $KakaoPage $Tokusatsu $Mascots $Young Ace $GFantasy $Mag Garden $Tokuma Shoten $Pokédex $Yu-Gi-Oh! $Cuphead $Black Butler $Soul Eater Series $Neon Genesis Evangelion $Tensei shitara Slime Datta Ken Series $Sword Art Online $Re:Zero kara Hajimeru Isekai Seikatsu $Mushoku Tensei $Kumo Desu ga, Nani ka? $Baki $Digimon $Baccano! $Uta no☆Prince-sama♪ $Fullmetal Alchemist $Pokémon Core Games $Saint Seiya: The Lost Canvas $Free! $Mairimashita! Iruma-kun $Ensemble Stars! $The iDOLM@STER SideM $Holostars $Shounen Ace $Akita Shoten $Tower of God $Hardcore Leveling Warrior $The Evillious Chronicles $Futabasha $Cardfight!! Vanguard Series $Tae Jun Park's Works $Chinese Animation $Gangan Joker $Shounen Gahousha $Kazuki Yone's Art $Senyuu. $ELECEED $Noblesse $The God of High School
 ```
 
 ### Result
