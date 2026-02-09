@@ -177,7 +177,7 @@ Funimation (9,181 ~ 4,090 $wa, 4,401 $ha, 1,026 $wg, 495 $hg)
 Boys' Love (4,385 ~ 216 $wa, 2,866 $ha, 176 $wg, 1,222 $hg)
 ```
 
-## $wg + $hg, 5k pool size + 15 slots (I have severe skill issues)
+## $wg + $hg, 5k pool size + 15 slots (I have skill issues)
 
 ### Command
 ```
@@ -209,8 +209,9 @@ DOS (264 ~ 19 $wa, 35 $ha, 103 $wg, 178 $hg)
 Koei Tecmo (705 ~ 34 $wa, 38 $ha, 364 $wg, 352 $hg)
 ```
 
-### $wg + $hg Player Prem (4.5k pool size + 55 slots)
+### $wg + $hg Player Prem 1 (4.5k pool size + 55 slots, me have major skill issues)
 
+Note: For Player Prem 2/3, add Koei Tecmo + THQ + Natsume + Nippon Ichi Software
 ### Command
 ```
 $d Mobile Games $ Visual Novels $ Indie Games $ Bandai Namco Games $ Multiplayer Games $ Nintendo $ SEGA $ Square Enix $ Nihon Falcom $ Level-5 $ DOS $ Capcom $ Compile Heart $ Marvelous
