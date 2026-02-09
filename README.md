@@ -1,4 +1,4 @@
- People’s Republic of China Sakura’s Disable List (Reconstruction for 2026)
+People’s Republic of China Sakura’s Disable List (Reconstruction for 2026)
 
 ## My sincerest gratitudes to:
 
@@ -7,10 +7,10 @@
 - **SleepyRanger**, he gave me the right command for zeroing in series from bundles that are deemed undesirable to hit on. 
 - **Anonymous** (preferred not to be mentioned) and an unknown player who made the original `$wg` DL’s.
 - **An unknown** player made the original `$ha` DL.
-- My friends who gave me encouragement to keep me going.
+- Fellow Mudae players who gave me encouragement to keep me going.
 - Original builds (some) credit to sedmelluq. https://gist.github.com/sedmelluq/6944fa5d8100e44c34cb31c93ec113a9
 
-Note: Those are optimal DL builds (disable the highest count of target roulette’s characters based on how many slots), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste thanks ). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). I do need to update the lists once per character update.
+Note: Those are optimal DL builds (disable the highest count of target roulette’s characters based on how many slots), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). I do need to monitor + update the lists regularly.
 
 If you have any matters/questions on DL builds, contact me on Discord by user ID: 405717573230133248
 
