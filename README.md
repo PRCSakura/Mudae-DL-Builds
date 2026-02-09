@@ -1,4 +1,4 @@
- People’s Republic of China Sakura’s Disable List (Reconstruction for 2026, WIP)
+ People’s Republic of China Sakura’s Disable List (Reconstruction for 2026)
 
 ## My sincerest gratitudes to:
 
@@ -244,10 +244,47 @@ Marvelous (682 ~ 94 $wa, 55 $ha, 439 $wg, 227 $hg)
 
 ```
 
-## 
+## $wg + $hg capping @ 2k (Mega Skill Issue)
 
 ### Command
 ```
+$d Mobile Games $ Visual Novels $ Indie Games $ Bandai Namco Games $ Multiplayer Games $ Nintendo $ SEGA $ Square Enix $ Nihon Falcom $ Level-5 $ DOS $ Capcom $ Compile Heart $ Marvelous $ Koei Tecmo $ Natsume $ THQ $ Nippon Ichi Software $ Sony Interactive Entertainment $ KONAMI $ Electronic Arts $ Ubisoft $ Browser Games $ Activision Blizzard $ PlayStation 5 $ Goblin Burrow Series
+```
+### Result
 
 ```
+ubermillennium_railgunpro_6433's Disablelist (26/108)
+80,613 disabled (14,649 $wa, 20,447 $ha, 31,904 $wg, 27,396 $hg)
+Pool limits: 43,521 $wa, 44,873 $ha, 31,919 $wg, 27,399 $hg
 
+Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
+
+Western animanga series are completely disabled ($togglewestern)
+IRL series are completely disabled ($toggleirl)
+
+Mobile Games (15,754 ~ 1,320 $wa, 836 $ha, 9,758 $wg, 6,588 $hg)
+Visual Novels (10,623 ~ 1,431 $wa, 646 $ha, 6,302 $wg, 3,923 $hg)
+Indie Games (11,262 ~ 229 $wa, 175 $ha, 6,936 $wg, 5,599 $hg)
+Bandai Namco Games (2,022 ~ 324 $wa, 243 $ha, 1,102 $wg, 1,055 $hg)
+Multiplayer Games (10,103 ~ 752 $wa, 640 $ha, 5,684 $wg, 5,334 $hg)
+Nintendo (4,662 ~ 753 $wa, 834 $ha, 2,493 $wg, 3,292 $hg)
+SEGA (2,661 ~ 389 $wa, 415 $ha, 1,192 $wg, 1,345 $hg)
+Square Enix (2,129 ~ 101 $wa, 50 $ha, 1,013 $wg, 1,193 $hg)
+Nihon Falcom (438 ~ 8 $wa, 18 $ha, 222 $wg, 227 $hg)
+Level-5 (623 ~ 97 $wa, 327 $ha, 157 $wg, 437 $hg)
+DOS (264 ~ 19 $wa, 35 $ha, 103 $wg, 178 $hg)
+Capcom (1,582 ~ 103 $wa, 181 $ha, 645 $wg, 1,088 $hg)
+Compile Heart (282 ~ 26 $wa, 3 $ha, 241 $wg, 44 $hg)
+Marvelous (682 ~ 94 $wa, 55 $ha, 439 $wg, 227 $hg)
+Koei Tecmo (705 ~ 34 $wa, 38 $ha, 364 $wg, 352 $hg)
+Natsume (137 ~ 12 $wa, 27 $ha, 59 $wg, 73 $hg)
+THQ (149 ~ 4 $wa, 9 $ha, 37 $wg, 125 $hg)
+Nippon Ichi Software (464 ~ 25 $wa, 55 $ha, 251 $wg, 214 $hg)
+Sony Interactive Entertainment (974 ~ 20 $wa, 25 $ha, 418 $wg, 670 $hg)
+KONAMI (1,743 ~ 302 $wa, 426 $ha, 956 $wg, 884 $hg)
+Electronic Arts (505 ~ 0 $wa, 4 $ha, 212 $wg, 327 $hg)
+Ubisoft (709 ~ 4 $wa, 18 $ha, 302 $wg, 423 $hg)
+Browser Games (2,582 ~ 190 $wa, 136 $ha, 1,795 $wg, 932 $hg)
+Activision Blizzard (753 ~ 11 $wa, 11 $ha, 250 $wg, 532 $hg)
+PlayStation 5 (3,893 ~ 64 $wa, 94 $ha, 2,042 $wg, 2,251 $hg)
+Goblin Burrow Series (22 ~ 3 $wa, 0 $ha, 22 $wg, 0 $hg)
