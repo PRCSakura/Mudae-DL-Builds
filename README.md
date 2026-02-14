@@ -10,7 +10,7 @@ People’s Republic of China Sakura’s Disable List (Reconstruction for 2026)
 - Fellow Mudae players who gave me encouragement to keep me going.
 - Original builds (some) credit to sedmelluq. https://gist.github.com/sedmelluq/6944fa5d8100e44c34cb31c93ec113a9
 
-Note: Those are optimal DL builds (disable the highest count of target roulette’s characters based on how many slots), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). I do need to monitor + update the lists regularly.
+Note: Those are highly efficient DL builds (disable the highest count of target roulette’s characters based on how many slots), they might contain the series you want to roll and might not contain the disliked series (the DL can be modified for your taste). Alternatively, wish the characters or anti-disable the desired series to circumvent the DL’s (except $toggle and $sdl). I do need to monitor + update the lists regularly.
 
 If you have any matters/questions on DL builds, contact me on Discord by user ID: 405717573230133248
 
@@ -18,7 +18,8 @@ https://mudae-tools.gustavbylund.se/split-list/
 
 https://mudaehelper.pages.dev/ DL Generator made by TheForceOne 
 
-DL Guide for 2026 (Need update, TBA)
+DL Guide for 2026
+https://docs.google.com/document/d/1Ozi2BYidGlI6HVXwcjzeVyDX0WSxcjbBwGHFVdDmn0g/edit?tab=t.0
 
 # Terminology
 
