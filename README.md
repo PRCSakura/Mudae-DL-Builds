@@ -1,4 +1,4 @@
-People’s Republic of China Sakura’s Disable List (Reconstruction for 2026)
+People’s Republic of China Sakura’s Disable List (WIP for 2026 May Update, Again)
 
 ## My sincerest gratitudes to:
 
@@ -16,7 +16,7 @@ If you have any matters/questions on DL builds, contact me on Discord by user ID
 
 https://mudae-tools.gustavbylund.se/split-list/ 
 
-https://mudaehelper.pages.dev/ DL Generator made by TheForceOne 
+https://mudaehelper.pages.dev/ DL Generator made by TheForceOne (not updated for 6+ months).
 
 DL Guide for 2026
 https://docs.google.com/document/d/1Ozi2BYidGlI6HVXwcjzeVyDX0WSxcjbBwGHFVdDmn0g/edit?tab=t.0
@@ -31,13 +31,12 @@ https://docs.google.com/document/d/1Ozi2BYidGlI6HVXwcjzeVyDX0WSxcjbBwGHFVdDmn0g/
 
 
 
-## $wa + $ha, Pool size: 7000, Slot: 15, $tw+$ti
+## $wa , Pool size: 7000, Slot: 15, $tw+$ti 
 Original build credit to Dee Pink for helping me out (back when I was a rookie).
 
-Note: For players who want to roll Western or/and IRL series, turn them on, swap out Hobby Japan or/and Tokuma Shoten, then $d Western $IRL. 
 ### Command
 ```
-$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten
+$d Kadokawa Corporation $ Shueisha $ Kodansha $ Hentai $ Shogakukan $ Houbunsha $ Anime Originals $ Virtual Music $ Gangan Comics $ Virtual YouTubers $ Manhua $ Manhwa $ Hobby Japan $ Mobile Games $ Comic Valkyrie 
 
 ```
 
