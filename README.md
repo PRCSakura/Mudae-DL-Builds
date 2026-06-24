@@ -31,7 +31,7 @@ https://docs.google.com/document/d/1Ozi2BYidGlI6HVXwcjzeVyDX0WSxcjbBwGHFVdDmn0g/
 
 
 
-## $wa , Pool size: 7000, Slot: 15, $tw+$ti 
+## $wa + $ha , Pool size: 7000, Slot: 15, $tw+$ti 
 Original build credit to Dee Pink for helping me out (back when I was a rookie).
 
 ### Command
@@ -42,30 +42,31 @@ $d Kadokawa Corporation $ Shueisha $ Kodansha $ Hentai $ Shogakukan $ Houbunsha 
 
 ### Result
 ```
-ubermillennium_railgunpro_6433's Disablelist (15/148)
-82,628 disabled (38,492 $wa, 39,855 $ha, 7,459 $wg, 3,982 $hg)
-Pool limits: 43,500 $wa, 44,874 $ha, 31,919 $wg, 27,397 $hg
+
+ubermillennium_railgunpro_6433's Disablelist (15/108)
+99,671 disabled (40,558 $wa, 41,875 $ha, 16,415 $wg, 10,085 $hg)
+Pool limits: 45,560 $wa, 46,912 $ha, 33,618 $wg, 28,909 $hg
 
 Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
 
 Western animanga series are completely disabled ($togglewestern)
 IRL series are completely disabled ($toggleirl)
 
-Kadokawa Corporation (12,836 ~ 7,863 $wa, 3,986 $ha, 2,114 $wg, 903 $hg)
-Shueisha (10,348 ~ 4,288 $wa, 6,338 $ha, 163 $wg, 535 $hg)
-Hentai (9,074 ~ 3,827 $wa, 1,310 $ha, 3,730 $wg, 701 $hg)
-Kodansha (7,740 ~ 3,922 $wa, 3,587 $ha, 331 $wg, 416 $hg)
-Shogakukan (4,533 ~ 2,124 $wa, 2,439 $ha, 321 $wg, 512 $hg)
-Manhwa (6,606 ~ 3,185 $wa, 3,488 $ha, 4 $wg, 3 $hg)
-Manhua (1,196 ~ 580 $wa, 623 $ha, 0 $wg, 0 $hg)
-Houbunsha (829 ~ 606 $wa, 90 $ha, 158 $wg, 2 $hg)
-Virtual YouTubers (1,116 ~ 889 $wa, 296 $ha, 14 $wg, 1 $hg)
-Anime Originals (3,716 ~ 2,047 $wa, 1,787 $ha, 56 $wg, 21 $hg)
-Virtual Music (2,263 ~ 1,080 $wa, 901 $ha, 731 $wg, 500 $hg)
-OVERLAP (375 ~ 280 $wa, 100 $ha, 0 $wg, 0 $hg)
-Gangan Comics (3,408 ~ 2,031 $wa, 1,368 $ha, 97 $wg, 82 $hg)
-Hobby Japan (381 ~ 313 $wa, 72 $ha, 0 $wg, 0 $hg)
-Tokuma Shoten (152 ~ 115 $wa, 39 $ha, 5 $wg, 5 $hg)
+Kadokawa Corporation (13,207 ~ 8,129 $wa, 4,136 $ha, 2,156 $wg, 920 $hg)
+Shueisha (10,692 ~ 4,443 $wa, 6,542 $ha, 165 $wg, 546 $hg)
+Kodansha (7,991 ~ 4,076 $wa, 3,702 $ha, 320 $wg, 424 $hg)
+Hentai (9,545 ~ 4,047 $wa, 1,375 $ha, 3,937 $wg, 737 $hg)
+Shogakukan (4,702 ~ 2,217 $wa, 2,523 $ha, 326 $wg, 519 $hg)
+Houbunsha (846 ~ 619 $wa, 94 $ha, 158 $wg, 2 $hg)
+Anime Originals (3,831 ~ 2,118 $wa, 1,845 $ha, 62 $wg, 24 $hg)
+Virtual Music (2,378 ~ 1,117 $wa, 934 $ha, 758 $wg, 525 $hg)
+Gangan Comics (3,511 ~ 2,090 $wa, 1,415 $ha, 99 $wg, 84 $hg)
+Virtual YouTubers (1,188 ~ 953 $wa, 307 $ha, 14 $wg, 1 $hg)
+Manhua (1,249 ~ 614 $wa, 642 $ha, 0 $wg, 0 $hg)
+Manhwa (7,017 ~ 3,429 $wa, 3,662 $ha, 4 $wg, 3 $hg)
+Hobby Japan (415 ~ 334 $wa, 89 $ha, 0 $wg, 0 $hg)
+Mobile Games (16,748 ~ 1,344 $wa, 797 $ha, 10,481 $wg, 6,939 $hg)
+Comic Valkyrie (113 ~ 99 $wa, 15 $ha, 0 $wg, 0 $hg)
 ```
 
 ## $wa + $ha, Player Prem 1 (6,300 pool size + 55 slots, assume no other boosts), $tw + $toggleirl 
@@ -74,41 +75,41 @@ Note: For Prem 2/3 (5.6k pool size), add Game Freak and swap out Taiyo Tosho. Fo
 
 ### Command
 ```
-$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten $ Akita Shoten $ Mag Garden $ Shinshokan $ Canna $ Taiyo Tosho
+$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Akita Shoten $ Shinshokan $ Mag Garden $ Takeshobo $ Earth Star Entertainment $ Drama CDs
 
 ```
 
 ### Result
 ```
-ubermillennium_railgunpro_6433's Disablelist (20/148)
-83,998 disabled (39,171 $wa, 40,561 $ha, 7,474 $wg, 3,989 $hg)
-Pool limits: 43,500 $wa, 44,874 $ha, 31,919 $wg, 27,397 $hg
+ubermillennium_railgunpro_6433's Disablelist (20/108)
+88,135 disabled (41,239 $wa, 42,604 $ha, 7,798 $wg, 4,243 $hg)
+Pool limits: 45,560 $wa, 46,912 $ha, 33,618 $wg, 28,909 $hg
 
 Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
 
 Western animanga series are completely disabled ($togglewestern)
 IRL series are completely disabled ($toggleirl)
 
-Kadokawa Corporation (12,836 ~ 7,863 $wa, 3,986 $ha, 2,114 $wg, 903 $hg)
-Shueisha (10,348 ~ 4,288 $wa, 6,338 $ha, 163 $wg, 535 $hg)
-Hentai (9,074 ~ 3,827 $wa, 1,310 $ha, 3,730 $wg, 701 $hg)
-Kodansha (7,740 ~ 3,922 $wa, 3,587 $ha, 331 $wg, 416 $hg)
-Shogakukan (4,533 ~ 2,124 $wa, 2,439 $ha, 321 $wg, 512 $hg)
-Manhwa (6,606 ~ 3,185 $wa, 3,488 $ha, 4 $wg, 3 $hg)
-Manhua (1,196 ~ 580 $wa, 623 $ha, 0 $wg, 0 $hg)
-Houbunsha (829 ~ 606 $wa, 90 $ha, 158 $wg, 2 $hg)
-Virtual YouTubers (1,116 ~ 889 $wa, 296 $ha, 14 $wg, 1 $hg)
-Anime Originals (3,716 ~ 2,047 $wa, 1,787 $ha, 56 $wg, 21 $hg)
-Virtual Music (2,263 ~ 1,080 $wa, 901 $ha, 731 $wg, 500 $hg)
-OVERLAP (375 ~ 280 $wa, 100 $ha, 0 $wg, 0 $hg)
-Gangan Comics (3,408 ~ 2,031 $wa, 1,368 $ha, 97 $wg, 82 $hg)
-Hobby Japan (381 ~ 313 $wa, 72 $ha, 0 $wg, 0 $hg)
-Tokuma Shoten (152 ~ 115 $wa, 39 $ha, 5 $wg, 5 $hg)
-Akita Shoten (1,112 ~ 605 $wa, 518 $ha, 15 $wg, 7 $hg)
-Mag Garden (405 ~ 212 $wa, 200 $ha, 2 $wg, 10 $hg)
-Shinshokan (93 ~ 9 $wa, 84 $ha, 0 $wg, 0 $hg)
-Canna (38 ~ 5 $wa, 33 $ha, 0 $wg, 0 $hg)
-Taiyo Tosho (36 ~ 11 $wa, 25 $ha, 0 $wg, 0 $hg)
+Kadokawa Corporation (13,207 ~ 8,129 $wa, 4,136 $ha, 2,156 $wg, 920 $hg)
+Shueisha (10,692 ~ 4,443 $wa, 6,542 $ha, 165 $wg, 546 $hg)
+Hentai (9,545 ~ 4,047 $wa, 1,375 $ha, 3,937 $wg, 737 $hg)
+Kodansha (7,991 ~ 4,076 $wa, 3,702 $ha, 320 $wg, 424 $hg)
+Shogakukan (4,702 ~ 2,217 $wa, 2,523 $ha, 326 $wg, 519 $hg)
+Manhwa (7,017 ~ 3,429 $wa, 3,662 $ha, 4 $wg, 3 $hg)
+Manhua (1,249 ~ 614 $wa, 642 $ha, 0 $wg, 0 $hg)
+Houbunsha (846 ~ 619 $wa, 94 $ha, 158 $wg, 2 $hg)
+Virtual YouTubers (1,188 ~ 953 $wa, 307 $ha, 14 $wg, 1 $hg)
+Anime Originals (3,831 ~ 2,118 $wa, 1,845 $ha, 62 $wg, 24 $hg)
+Virtual Music (2,378 ~ 1,117 $wa, 934 $ha, 758 $wg, 525 $hg)
+OVERLAP (388 ~ 288 $wa, 105 $ha, 0 $wg, 0 $hg)
+Gangan Comics (3,511 ~ 2,090 $wa, 1,415 $ha, 99 $wg, 84 $hg)
+Hobby Japan (415 ~ 334 $wa, 89 $ha, 0 $wg, 0 $hg)
+Akita Shoten (1,154 ~ 630 $wa, 535 $ha, 15 $wg, 7 $hg)
+Shinshokan (95 ~ 9 $wa, 86 $ha, 0 $wg, 0 $hg)
+Mag Garden (415 ~ 216 $wa, 206 $ha, 2 $wg, 10 $hg)
+Takeshobo (319 ~ 200 $wa, 132 $ha, 0 $wg, 0 $hg)
+Earth Star Entertainment (196 ~ 147 $wa, 51 $ha, 0 $wg, 0 $hg)
+Drama CDs (298 ~ 32 $wa, 266 $ha, 8 $wg, 36 $hg)
 ```
 
 ## $wa + $ha, capping @ 2k pool size, $tw + $toggleirl 
