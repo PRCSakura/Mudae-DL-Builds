@@ -74,7 +74,7 @@ Comic Meteor (153 ~ 122 $wa, 38 $ha, 0 $wg, 0 $hg)
 
 ## $wa + $ha, Player Prem 1 (6,300 pool size + 55 slots, assume no other boosts), $tw + $toggleirl 
 
-Note: For Prem 2/3 (5.6k pool size), add Game Freak and swap out Taiyo Tosho. For rolling Western + IRL series, turn them back on and use $d Western $IRL
+Note: For Prem 2/3 (5.6k pool size), add Trading Card Games, Mascots, Artworks, and Junji Ito's Works.
 
 ### Command
 ```
@@ -121,7 +121,7 @@ Memes (548 ~ 321 $wa, 350 $ha, 27 $wg, 58 $hg)
 
 ### Command
 ```
-$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $ Virtual YouTubers $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten $ Akita Shoten $ Mag Garden $ Shinshokan $ GAME FREAK $ Pokémon Anime $ Micro Magazine $ Earth Star Entertainment $ Shinchosha $ Comic Zenon $ Comic Corona $ Junji Ito's Works $ Webmanga $ Mobile Games $ Web Novels $ Chinese Animation $ Shounen Gahousha $ 🤔 $ Tokusatsu $ Sonic the Hedgehog Games $ Trading Card Games $ Bandai Namco $ Futabasha $ Takeshobo $ Comic Valkyrie $ SB Creative Corp. $ Gentosha $ Touhou Project (Windows Canon) $ Artworks $ Funimation $ 2D Animated Movies $ Boys' Love
+$d Kadokawa Corporation $ Shueisha $ Hentai $ Kodansha $ Shogakukan $ Manhwa $ Manhua $ Houbunsha $YouTube $ Anime Originals $ Virtual Music $ OVERLAP $ Gangan Comics $ Hobby Japan $ Tokuma Shoten $ Akita Shoten $ Mag Garden $ Shinshokan $ GAME FREAK $ Pokémon Anime $ Micro Magazine $ Earth Star Entertainment $ Shinchosha $ Comic Zenon $ Comic Corona $ Junji Ito's Works $ Webmanga $ Mobile Games $ Web Novels $ Chinese Animation $ Shounen Gahousha $ 🤔 $ Tokusatsu $ Sonic the Hedgehog Games $ Trading Card Games $ Bandai Namco $ Futabasha $ Takeshobo $ Comic Valkyrie $ SB Creative Corp. $ Gentosha $ Touhou Project (Windows Canon) $ Artworks $ Funimation $ 2D Animated Movies $ Boys' Love
 ```
 
 ### Result
