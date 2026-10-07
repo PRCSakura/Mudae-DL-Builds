@@ -188,7 +188,7 @@ Filipino Media (133 ~ 48 $wa, 45 $ha, 20 $wg, 27 $hg)
 ```
 $d Mobile Games$Indie Games $VN $Multiplayer Games$Shooter Games$Bandai Namco Entertainment$Nintendo$SEGA$Level-5$ CRPG$ DOS $SEGA
 ```
-
+Note: At this point, I need to make a separate DL for $hg (can't cap both simultaneously now, or just another skill issue perhaps).
 ### Result
 ```
 ubermillennium_railgunpro_6433's Disablelist (12/108)
@@ -214,38 +214,36 @@ Computer Role-Playing Games (394 ~ 0 $wa, 2 $ha, 175 $wg, 232 $hg)
 DOS (284 ~ 21 $wa, 37 $ha, 110 $wg, 192 $hg)
 ```
 
-### $wg + $hg Player Prem 1 (4.5k pool size + 55 slots, me have major skill issues)
+### $wg + $hg Player Prem 1 (4.5k pool size + 55 slots, closer on $wg than $hg)
 
-Note: For Player Prem 2/3, add Koei Tecmo + THQ + Natsume + Nippon Ichi Software
+Note: At this point, I need to make a separate DL for $hg (can't cap both simultaneously now, or just another skill issue perhaps).
 ### Command
 ```
-$d Mobile Games $ Visual Novels $ Indie Games $ Bandai Namco Games $ Multiplayer Games $ Nintendo $ SEGA $ Square Enix $ Nihon Falcom $ Level-5 $ DOS $ Capcom $ Compile Heart $ Marvelous
+$d Mobile Games $ Indie Games $ Visual Novels $ Multiplayer Games $ Shooter Games $ Bandai Namco Entertainment $ Nintendo $ SEGA $ Level-5 $ Compile Heart $ Capcom $ KONAMI
 ```
 ### Result
 ```
-ubermillennium_railgunpro_6433's Disablelist (14/108)
-75,698 disabled (14,382 $wa, 20,074 $ha, 29,404 $wg, 24,837 $hg)
-Pool limits: 43,521 $wa, 44,873 $ha, 31,919 $wg, 27,399 $hg
+ubermillennium_railgunpro_6433's Disablelist (12/108)
+83,417 disabled (15,858 $wa, 22,179 $ha, 32,634 $wg, 27,398 $hg)
+Pool limits: 47,348 $wa, 48,773 $ha, 35,166 $wg, 30,239 $hg
 
 Can't be reduced below 2,000 characters available for $wa/$ha and 2,000 characters for $wg/$hg
 
 Western animanga series are completely disabled ($togglewestern)
 IRL series are completely disabled ($toggleirl)
 
-Mobile Games (15,754 ~ 1,320 $wa, 836 $ha, 9,758 $wg, 6,588 $hg)
-Visual Novels (10,623 ~ 1,431 $wa, 646 $ha, 6,302 $wg, 3,923 $hg)
-Indie Games (11,262 ~ 229 $wa, 175 $ha, 6,936 $wg, 5,599 $hg)
-Bandai Namco Games (2,022 ~ 324 $wa, 243 $ha, 1,102 $wg, 1,055 $hg)
-Multiplayer Games (10,103 ~ 752 $wa, 640 $ha, 5,684 $wg, 5,334 $hg)
-Nintendo (4,662 ~ 753 $wa, 834 $ha, 2,493 $wg, 3,292 $hg)
-SEGA (2,661 ~ 389 $wa, 415 $ha, 1,192 $wg, 1,345 $hg)
-Square Enix (2,129 ~ 101 $wa, 50 $ha, 1,013 $wg, 1,193 $hg)
-Nihon Falcom (438 ~ 8 $wa, 18 $ha, 222 $wg, 227 $hg)
-Level-5 (623 ~ 97 $wa, 327 $ha, 157 $wg, 437 $hg)
-DOS (264 ~ 19 $wa, 35 $ha, 103 $wg, 178 $hg)
-Capcom (1,582 ~ 103 $wa, 181 $ha, 645 $wg, 1,088 $hg)
-Compile Heart (282 ~ 26 $wa, 3 $ha, 241 $wg, 44 $hg)
-Marvelous (682 ~ 94 $wa, 55 $ha, 439 $wg, 227 $hg)
+Mobile Games (17,773 ~ 1,474 $wa, 806 $ha, 11,272 $wg, 7,227 $hg)
+Indie Games (12,798 ~ 253 $wa, 200 $ha, 7,904 $wg, 6,482 $hg)
+Visual Novels (11,439 ~ 1,502 $wa, 764 $ha, 6,774 $wg, 4,315 $hg)
+Multiplayer Games (11,595 ~ 855 $wa, 730 $ha, 6,606 $wg, 6,105 $hg)
+Shooter Games (4,613 ~ 136 $wa, 108 $ha, 2,440 $wg, 2,620 $hg)
+Bandai Namco Entertainment (2,071 ~ 318 $wa, 222 $ha, 1,136 $wg, 1,085 $hg)
+Nintendo (5,003 ~ 786 $wa, 875 $ha, 2,686 $wg, 3,529 $hg)
+SEGA (2,887 ~ 412 $wa, 463 $ha, 1,289 $wg, 1,454 $hg)
+Level-5 (688 ~ 107 $wa, 357 $ha, 170 $wg, 482 $hg)
+Compile Heart (299 ~ 26 $wa, 3 $ha, 254 $wg, 49 $hg)
+Capcom (1,670 ~ 112 $wa, 203 $ha, 673 $wg, 1,156 $hg)
+KONAMI (1,914 ~ 334 $wa, 447 $ha, 1,074 $wg, 969 $hg)
 
 ```
 
