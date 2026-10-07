@@ -186,7 +186,7 @@ Filipino Media (133 ~ 48 $wa, 45 $ha, 20 $wg, 27 $hg)
 
 ### Command
 ```
-$d Mobile Games$Indie Games $VN $Multiplayer Games$Shooter Games$Bandai Namco Entertainment$Nintendo$SEGA$Level-5$ CRPG$ DOS
+$d Mobile Games$Indie Games $VN $Multiplayer Games$Shooter Games$Bandai Namco Entertainment$Nintendo$SEGA$Level-5$ CRPG$ DOS $SEGA
 ```
 
 ### Result
