@@ -1,4 +1,4 @@
-People’s Republic of China Sakura’s Disable List (WIP for 2026 August Update, Again)
+People’s Republic of China Sakura’s Disable List (Usable for 2026 August update, except game roulette a bit)
 
 ## My sincerest gratitudes to:
 
